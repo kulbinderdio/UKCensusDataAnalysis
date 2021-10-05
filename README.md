@@ -5,3 +5,9 @@ For this we will be using Python, Postgres, PostGIS, QGIS(possibly), GeoPandas a
 
 For a detailed description of the Census data have a look at https://www.ons.gov.uk/census/2011census
 During the course of this projet I will endeavour to explain terms that are specific to this data and area of analysis such as OAs, LSOAs, MSOAs, etc
+
+##Setup
+1. Install Postgresql.  See https://www.postgresql.org/download/
+2. Install PostGIS extension. See https://postgis.net/install/
+3. Install pgAdmin4. See https://www.pgadmin.org/download/ (or other ddatabase client software)
+4. Download following geographic data files
