@@ -1,0 +1,2560 @@
+code,unit,statisticalUnit,description
+ColumnVariableCode,ColumnVariableMeasurementUnit,ColumnVariableStatisticalUnit,ColumnVariableDescription
+KS101EW0001,Count,Person,All categories: Sex
+KS101EW0002,Count,Person,Males
+KS101EW0003,Count,Person,Females
+KS101EW0004,Count,Person,Lives in a household
+KS101EW0005,Count,Person,Lives in a communal establishment
+KS101EW0006,Count,Person,Schoolchild or full-time student aged 4 and over at their non term-time address
+KS101EW0007,Sum,Area (Hectares),Area hectares
+KS101EW0008,Ratio,"Represents code used for SDMX series key completeness, as this codelist is not meaningfully used, for reason of concatenation, axis derivations etc",Density (number of persons per hectare)
+KS101EW0009,Percentage,"Represents code used for SDMX series key completeness, as this codelist is not meaningfully used, for reason of concatenation, axis derivations etc",Males
+KS101EW0010,Percentage,"Represents code used for SDMX series key completeness, as this codelist is not meaningfully used, for reason of concatenation, axis derivations etc",Females
+KS101EW0011,Percentage,"Represents code used for SDMX series key completeness, as this codelist is not meaningfully used, for reason of concatenation, axis derivations etc",Lives in a household
+KS101EW0012,Percentage,"Represents code used for SDMX series key completeness, as this codelist is not meaningfully used, for reason of concatenation, axis derivations etc",Lives in a communal establishment
+KS102EW0001,Count,Person,All categories: Age
+KS102EW0002,Count,Person,Age 0 to 4
+KS102EW0003,Count,Person,Age 5 to 7
+KS102EW0004,Count,Person,Age 8 to 9
+KS102EW0005,Count,Person,Age 10 to 14
+KS102EW0006,Count,Person,Age 15
+KS102EW0007,Count,Person,Age 16 to 17
+KS102EW0008,Count,Person,Age 18 to 19
+KS102EW0009,Count,Person,Age 20 to 24
+KS102EW0010,Count,Person,Age 25 to 29
+KS102EW0011,Count,Person,Age 30 to 44
+KS102EW0012,Count,Person,Age 45 to 59
+KS102EW0013,Count,Person,Age 60 to 64
+KS102EW0014,Count,Person,Age 65 to 74
+KS102EW0015,Count,Person,Age 75 to 84
+KS102EW0016,Count,Person,Age 85 to 89
+KS102EW0017,Count,Person,Age 90 and over
+KS102EW0018,Years,Person,Mean age
+KS102EW0019,Years,Person,Median age
+KS102EW0020,Percentage,Person,Age 0 to 4
+KS102EW0021,Percentage,Person,Age 5 to 7
+KS102EW0022,Percentage,Person,Age 8 to 9
+KS102EW0023,Percentage,Person,Age 10 to 14
+KS102EW0024,Percentage,Person,Age 15
+KS102EW0025,Percentage,Person,Age 16 to 17
+KS102EW0026,Percentage,Person,Age 18 to 19
+KS102EW0027,Percentage,Person,Age 20 to 24
+KS102EW0028,Percentage,Person,Age 25 to 29
+KS102EW0029,Percentage,Person,Age 30 to 44
+KS102EW0030,Percentage,Person,Age 45 to 59
+KS102EW0031,Percentage,Person,Age 60 to 64
+KS102EW0032,Percentage,Person,Age 65 to 74
+KS102EW0033,Percentage,Person,Age 75 to 84
+KS102EW0034,Percentage,Person,Age 85 to 89
+KS102EW0035,Percentage,Person,Age 90 and over
+KS103EW0001,Count,Person,All categories: Marital and civil partnership status
+KS103EW0002,Count,Person,Single (never married or never registered a same-sex civil partnership)
+KS103EW0003,Count,Person,Married
+KS103EW0004,Count,Person,In a registered same-sex civil partnership
+KS103EW0005,Count,Person,Separated (but still legally married or still legally in a same-sex civil partnership)
+KS103EW0006,Count,Person,Divorced or formerly in a same-sex civil partnership which is now legally dissolved
+KS103EW0007,Count,Person,Widowed or surviving partner from a same-sex civil partnership
+KS103EW0008,Percentage,Person,Single (never married or never registered a same-sex civil partnership)
+KS103EW0009,Percentage,Person,Married
+KS103EW0010,Percentage,Person,In a registered same-sex civil partnership
+KS103EW0011,Percentage,Person,Separated (but still legally married or still legally in a same-sex civil partnership)
+KS103EW0012,Percentage,Person,Divorced or formerly in a same-sex civil partnership which is now legally dissolved
+KS103EW0013,Percentage,Person,Widowed or surviving partner from a same-sex civil partnership
+KS104EW0001,Count,Person,All categories: Living arrangements
+KS104EW0002,Count,Person,Living in a couple: Married or in a registered same-sex civil partnership
+KS104EW0003,Count,Person,Living in a couple: Cohabiting
+KS104EW0004,Count,Person,Not living in a couple: Single (never married or never registered a same-sex civil partnership)
+KS104EW0005,Count,Person,Not living in a couple: Married or in a registered same-sex civil partnership
+KS104EW0006,Count,Person,Not living in a couple: Separated (but still legally married or still legally in a same-sex civil partnership)
+KS104EW0007,Count,Person,Not living in a couple: Divorced or formerly in a same-sex civil partnership which is now legally dissolved
+KS104EW0008,Count,Person,Not living in a couple: Widowed or surviving partner from a same-sex civil partnership
+KS104EW0009,Percentage,Person,Living in a couple: Married or in a registered same-sex civil partnership
+KS104EW0010,Percentage,Person,Living in a couple: Cohabiting
+KS104EW0011,Percentage,Person,Not living in a couple: Single (never married or never registered a same-sex civil partnership)
+KS104EW0012,Percentage,Person,Not living in a couple: Married or in a registered same-sex civil partnership
+KS104EW0013,Percentage,Person,Not living in a couple: Separated (but still legally married or still legally in a same-sex civil partnership)
+KS104EW0014,Percentage,Person,Not living in a couple: Divorced or formerly in a same-sex civil partnership which is now legally dissolved
+KS104EW0015,Percentage,Person,Not living in a couple: Widowed or surviving partner from a same-sex civil partnership
+KS105EW0001,Count,Household,All categories: Household composition
+QS103EW0057,Count,Person,Age 55
+KS105EW0002,Count,Household,One person household: Aged 65 and over
+KS105EW0003,Count,Household,One person household: Other
+KS105EW0004,Count,Household,One family only: All aged 65 and over
+KS105EW0005,Count,Household,One family only: Married or same-sex civil partnership couple: No children
+KS105EW0006,Count,Household,One family only: Married or same-sex civil partnership couple: Dependent children
+KS105EW0007,Count,Household,One family only: Married or same-sex civil partnership couple: All children non-dependent
+KS105EW0008,Count,Household,One family only: Cohabiting couple: No children
+KS105EW0009,Count,Household,One family only: Cohabiting couple: Dependent children
+KS105EW0010,Count,Household,One family only: Cohabiting couple: All children non-dependent
+KS105EW0011,Count,Household,One family only: Lone parent: Dependent children
+KS105EW0012,Count,Household,One family only: Lone parent: All children non-dependent
+KS105EW0013,Count,Household,Other household types: With dependent children
+KS105EW0014,Count,Household,Other household types: All full-time students
+KS105EW0015,Count,Household,Other household types: All aged 65 and over
+KS105EW0016,Count,Household,Other household types: Other
+KS105EW0017,Percentage,Household,One person household: Aged 65 and over
+KS105EW0018,Percentage,Household,One person household: Other
+KS105EW0019,Percentage,Household,One family only: All aged 65 and over
+KS105EW0020,Percentage,Household,One family only: Married or same-sex civil partnership couple: No children
+KS105EW0021,Percentage,Household,One family only: Married or same-sex civil partnership couple: Dependent children
+KS105EW0022,Percentage,Household,One family only: Married or same-sex civil partnership couple: All children non-dependent
+KS105EW0023,Percentage,Household,One family only: Cohabiting couple: No children
+KS105EW0024,Percentage,Household,One family only: Cohabiting couple: Dependent children
+KS105EW0025,Percentage,Household,One family only: Cohabiting couple: All children non-dependent
+KS105EW0026,Percentage,Household,One family only: Lone parent: Dependent children
+KS105EW0027,Percentage,Household,One family only: Lone parent: All children non-dependent
+KS105EW0028,Percentage,Household,Other household types: With dependent children
+KS105EW0029,Percentage,Household,Other household types: All full-time students
+KS105EW0030,Percentage,Household,Other household types: All aged 65 and over
+KS105EW0031,Percentage,Household,Other household types: Other
+KS106EW0001,Count,Household,All households
+KS106EW0002,Count,Household,No adults in employment in household: With dependent children
+KS106EW0003,Count,Household,No adults in employment in household: No dependent children
+KS106EW0004,Count,Household,Dependent children in household: All ages
+KS106EW0005,Count,Household,Dependent children in household: Age 0 to 4
+KS106EW0006,Count,Household,One person in household with a long-term health problem or disability: With dependent children
+KS106EW0007,Count,Household,One person in household with a long-term health problem or disability: No dependent children
+KS106EW0008,Percentage,Household,No adults in employment in household: With dependent children
+KS106EW0009,Percentage,Household,No adults in employment in household: No dependent children
+KS106EW0010,Percentage,Household,Dependent children in household: All ages
+KS106EW0011,Percentage,Household,Dependent children in household: Age 0 to 4
+KS106EW0012,Percentage,Household,One person in household with a long-term health problem or disability: With dependent children
+KS106EW0013,Percentage,Household,One person in household with a long-term health problem or disability: No dependent children
+KS107EW0001,Count,Household,All categories: Family status (lone parent) by sex and economic activity
+KS107EW0002,Count,Household,Lone parent in part-time employment: Total
+KS107EW0003,Count,Household,Lone parent in full-time employment: Total
+KS107EW0004,Count,Household,Lone parent not in employment: Total
+KS107EW0005,Count,Household,Male lone parent: Total
+KS107EW0006,Count,Household,Male lone parent: In part-time employment
+KS107EW0007,Count,Household,Male lone parent: In full-time employment
+KS107EW0008,Count,Household,Male lone parent: Not in employment
+KS107EW0009,Count,Household,Female lone parent: Total
+KS107EW0010,Count,Household,Female lone parent: In part-time employment
+KS107EW0011,Count,Household,Female lone parent: In full-time employment
+KS107EW0012,Count,Household,Female lone parent: Not in employment
+KS107EW0013,Percentage,Household,Lone parent in part-time employment: Total
+KS107EW0014,Percentage,Household,Lone parent in full-time employment: Total
+KS107EW0015,Percentage,Household,Lone parent not in employment: Total
+KS107EW0016,Percentage,Household,Male lone parent: Total
+KS107EW0017,Percentage,Household,Male lone parent: In part-time employment
+KS107EW0018,Percentage,Household,Male lone parent: In full-time employment
+KS107EW0019,Percentage,Household,Male lone parent: Not in employment
+KS107EW0020,Percentage,Household,Female lone parent: Total
+KS107EW0021,Percentage,Household,Female lone parent: In part-time employment
+KS107EW0022,Percentage,Household,Female lone parent: In full-time employment
+KS107EW0023,Percentage,Household,Female lone parent: Not in employment
+KS201EW0001,Count,Person,All categories: Ethnic group
+KS201EW0002,Count,Person,White: English/Welsh/Scottish/Northern Irish/British
+KS201EW0003,Count,Person,White: Irish
+KS201EW0004,Count,Person,White: Gypsy or Irish Traveller
+KS201EW0005,Count,Person,White: Other White
+KS201EW0006,Count,Person,Mixed/multiple ethnic group: White and Black Caribbean
+KS201EW0007,Count,Person,Mixed/multiple ethnic group: White and Black African
+KS201EW0008,Count,Person,Mixed/multiple ethnic group: White and Asian
+KS201EW0009,Count,Person,Mixed/multiple ethnic group: Other Mixed
+KS201EW0010,Count,Person,Asian/Asian British: Indian
+KS201EW0011,Count,Person,Asian/Asian British: Pakistani
+KS201EW0012,Count,Person,Asian/Asian British: Bangladeshi
+KS201EW0013,Count,Person,Asian/Asian British: Chinese
+KS201EW0014,Count,Person,Asian/Asian British: Other Asian
+KS201EW0015,Count,Person,Black/African/Caribbean/Black British: African
+KS201EW0016,Count,Person,Black/African/Caribbean/Black British: Caribbean
+KS201EW0017,Count,Person,Black/African/Caribbean/Black British: Other Black
+KS201EW0018,Count,Person,Other ethnic group: Arab
+KS201EW0019,Count,Person,Other ethnic group: Any other ethnic group
+KS201EW0020,Percentage,Person,White: English/Welsh/Scottish/Northern Irish/British
+KS201EW0021,Percentage,Person,White: Irish
+KS201EW0022,Percentage,Person,White: Gypsy or Irish Traveller
+KS201EW0023,Percentage,Person,White: Other White
+KS201EW0024,Percentage,Person,Mixed/multiple ethnic groups: White and Black Caribbean
+KS201EW0025,Percentage,Person,Mixed/multiple ethnic groups: White and Black African
+KS201EW0026,Percentage,Person,Mixed/multiple ethnic groups: White and Asian
+KS201EW0027,Percentage,Person,Mixed/multiple ethnic groups: Other Mixed
+KS201EW0028,Percentage,Person,Asian/Asian British: Indian
+KS201EW0029,Percentage,Person,Asian/Asian British: Pakistani
+KS201EW0030,Percentage,Person,Asian/Asian British: Bangladeshi
+KS201EW0031,Percentage,Person,Asian/Asian British: Chinese
+KS201EW0032,Percentage,Person,Asian/Asian British: Other Asian
+KS201EW0033,Percentage,Person,Black/African/Caribbean/Black British: African
+KS201EW0034,Percentage,Person,Black/African/Caribbean/Black British: Caribbean
+KS201EW0035,Percentage,Person,Black/African/Caribbean/Black British: Other Black
+KS201EW0036,Percentage,Person,Other ethnic group: Arab
+KS201EW0037,Percentage,Person,Other ethnic group: Any other ethnic group
+KS202EW0001,Count,Person,All categories: National identity English
+KS202EW0002,Count,Person,English only identity
+KS202EW0003,Count,Person,English and British only identity
+KS202EW0004,Count,Person,Other English combined background identity
+KS202EW0005,Count,Person,No English identity
+KS202EW0006,Count,Person,All categories: National identity Welsh
+KS202EW0007,Count,Person,Welsh only identity
+KS202EW0008,Count,Person,Welsh and British only identity
+KS202EW0009,Count,Person,Other Welsh combined background identity
+KS202EW0010,Count,Person,No Welsh identity
+KS202EW0011,Count,Person,All categories: National identity Scottish
+KS202EW0012,Count,Person,Scottish only identity
+KS202EW0013,Count,Person,Scottish and British only identity
+KS202EW0014,Count,Person,Other Scottish combined background identity
+KS202EW0015,Count,Person,No Scottish identity
+KS202EW0016,Count,Person,All categories: National identity Northern Irish
+KS202EW0017,Count,Person,Northern Irish only identity
+KS202EW0018,Count,Person,Northern Irish and British only identity
+KS202EW0019,Count,Person,Other Northern Irish combined background identity
+KS202EW0020,Count,Person,No Northern Irish identity
+KS202EW0021,Count,Person,All categories: National identity British
+KS202EW0022,Count,Person,British only identity
+KS202EW0023,Count,Person,British and any other identity
+KS202EW0024,Count,Person,No British identity
+KS202EW0025,Count,Person,All categories: National identity Cornish
+KS202EW0026,Count,Person,Cornish only identity
+KS202EW0027,Count,Person,Cornish and British only identity
+KS202EW0028,Count,Person,Cornish and at least one of English/Welsh/Scottish/Northern Irish identities (with or without British)
+KS202EW0029,Count,Person,No Cornish identity
+KS202EW0030,Count,Person,All categories: National identity Irish
+KS202EW0031,Count,Person,Irish only identity
+KS202EW0032,Count,Person,Irish and British only identity
+KS202EW0033,Count,Person,Irish and Northern Irish only identity
+KS202EW0034,Count,Person,"Irish, Northern Irish and British only identity"
+KS202EW0035,Count,Person,Irish and at least one of English/Welsh/Scottish identities (with or without British)
+KS202EW0036,Count,Person,"Irish, Northern Irish and at least one of English/Welsh/Scottish identities (with or without British)"
+KS202EW0037,Count,Person,No Irish identity
+KS202EW0038,Count,Person,All categories: National identity Other
+KS202EW0039,Count,Person,Other identities only
+KS202EW0040,Count,Person,Other identities and at least one of English/Welsh/Scottish/Northern Irish/British only
+KS202EW0041,Count,Person,At least one of English/Welsh/Scottish/Northern Irish/British identities only
+KS202EW0042,Percentage,Person,English only identity
+KS202EW0043,Percentage,Person,English and British only identity
+KS202EW0044,Percentage,Person,Other English combined background identity
+KS202EW0045,Percentage,Person,No English identity
+KS202EW0046,Percentage,Person,Welsh only identity
+KS202EW0047,Percentage,Person,Welsh and British only identity
+KS202EW0048,Percentage,Person,Other Welsh combined background identity
+KS202EW0049,Percentage,Person,No Welsh identity
+KS202EW0050,Percentage,Person,Scottish only identity
+KS202EW0051,Percentage,Person,Scottish and British only identity
+KS202EW0052,Percentage,Person,Other Scottish combined background identity
+KS202EW0053,Percentage,Person,No Scottish identity
+KS202EW0054,Percentage,Person,Northern Irish only identity
+KS202EW0055,Percentage,Person,Northern Irish and British only identity
+KS207WA0013,Percentage,Person,Can speak and read but cannot write Welsh
+KS202EW0056,Percentage,Person,Other Northern Irish combined background identity
+KS202EW0057,Percentage,Person,No Northern Irish identity
+KS202EW0058,Percentage,Person,British only identity
+KS202EW0059,Percentage,Person,British and any other identity
+KS202EW0060,Percentage,Person,No British identity
+KS202EW0061,Percentage,Person,Cornish only identity
+KS202EW0062,Percentage,Person,Cornish and British only identity
+KS202EW0063,Percentage,Person,Cornish and at least one of English/Welsh/Scottish/Northern Irish identities (with or without British)
+KS202EW0064,Percentage,Person,No Cornish identity
+KS202EW0065,Percentage,Person,Irish only identity
+KS202EW0066,Percentage,Person,Irish and British only identity
+KS202EW0067,Percentage,Person,Irish and Northern Irish only identity
+KS202EW0068,Percentage,Person,"Irish, Northern Irish and British only identity"
+KS202EW0069,Percentage,Person,Irish and at least one of English/Welsh/Scottish identities (with or without British)
+KS202EW0070,Percentage,Person,"Irish, Northern Irish and at least one of English/Welsh/Scottish identities (with or without British)"
+KS202EW0071,Percentage,Person,No Irish identity
+KS202EW0072,Percentage,Person,Other identities only
+KS202EW0073,Percentage,Person,Other identities and at least one of English/Welsh/Scottish/Northern Irish/British only
+KS202EW0074,Percentage,Person,At least one of English/Welsh/Scottish/Northern Irish/British identities only
+KS204EW0001,Count,Person,All categories: Country of birth
+KS204EW0002,Count,Person,England
+KS204EW0003,Count,Person,Northern Ireland
+KS204EW0004,Count,Person,Scotland
+KS204EW0005,Count,Person,Wales
+KS204EW0006,Count,Person,United Kingdom not otherwise specified
+KS204EW0007,Count,Person,Ireland
+KS204EW0008,Count,Person,Other EU: Member countries in March 2001
+KS204EW0009,Count,Person,Other EU: Accession countries April 2001 to March 2011
+KS204EW0010,Count,Person,Other countries
+KS204EW0011,Percentage,Person,England
+KS204EW0012,Percentage,Person,Northern Ireland
+KS204EW0013,Percentage,Person,Scotland
+KS204EW0014,Percentage,Person,Wales
+KS204EW0015,Percentage,Person,United Kingdom not otherwise specified\n
+KS204EW0016,Percentage,Person,Ireland
+KS204EW0017,Percentage,Person,Other EU: Member countries in March 2001
+KS204EW0018,Percentage,Person,Other EU: Accession countries April 2001 to March 2011
+KS204EW0019,Percentage,Person,Other countries
+KS205EW0001,Count,Person,All usual residents
+KS205EW0002,Count,Person,No passport
+KS205EW0003,Count,Person,United Kingdom
+KS205EW0004,Count,Person,Republic of Ireland
+KS205EW0005,Count,Person,Other Europe: EU countries
+KS205EW0006,Count,Person,Other Europe: Non EU countries
+KS205EW0007,Count,Person,Africa
+KS205EW0008,Count,Person,Middle East and Asia
+KS205EW0009,Count,Person,North America and the Caribbean
+KS205EW0010,Count,Person,Central America
+KS205EW0011,Count,Person,South America
+KS205EW0012,Count,Person,Antarctica and Oceania
+KS205EW0013,Count,Person,British Overseas Territories
+KS205EW0014,Percentage,Person,No passport
+KS205EW0015,Percentage,Person,United Kingdom
+KS205EW0016,Percentage,Person,Republic of Ireland
+KS205EW0017,Percentage,Person,Other Europe: EU countries
+KS205EW0018,Percentage,Person,Other Europe: Non EU countries
+KS205EW0019,Percentage,Person,Africa
+KS205EW0020,Percentage,Person,Middle East and Asia
+KS205EW0021,Percentage,Person,North America and the Caribbean
+KS205EW0022,Percentage,Person,Central America
+KS205EW0023,Percentage,Person,South America
+KS205EW0024,Percentage,Person,Antarctica and Oceania
+KS205EW0025,Percentage,Person,British Overseas Territories
+KS206EW0001,Count,Household,All categories: English as a household language
+KS206EW0002,Count,Household,All people aged 16 and over in household have English as a main language (English or Welsh in Wales)
+KS206EW0003,Count,Household,At least one but not all people aged 16 and over in household have English as a main language (English or Welsh in Wales)
+KS206EW0004,Count,Household,No people aged 16 and over in household but at least one person aged 3 to 15 has English as a main language (English or Welsh in Wales)
+KS206EW0005,Count,Household,No people in household have English as a main language (English or Welsh in Wales)
+KS206EW0006,Percentage,Household,All people aged 16 and over in household have English as a main language (English or Welsh in Wales)
+KS206EW0007,Percentage,Household,At least one but not all people aged 16 and over in household have English as a main language (English or Welsh in Wales)
+KS206EW0008,Percentage,Household,No people aged 16 and over in household but at least one person aged 3 to 15 has English as a main language (English or Welsh in Wales)
+KS206EW0009,Percentage,Household,No people in household have English as a main language (English or Welsh in Wales)
+KS207WA0001,Count,Person,All usual residents aged 3 and over
+KS207WA0002,Count,Person,No skills in Welsh
+KS207WA0003,Count,Person,Can understand spoken Welsh only
+KS207WA0004,Count,Person,Can speak Welsh
+KS207WA0005,Count,Person,Can speak but cannot read or write Welsh
+KS207WA0006,Count,Person,Can speak and read but cannot write Welsh
+KS207WA0007,Count,Person,"Can speak, read and write Welsh"
+KS207WA0008,Count,Person,Other combination of skills in Welsh
+KS207WA0009,Percentage,Person,No skills in Welsh
+KS207WA0010,Percentage,Person,Can understand spoken Welsh only
+KS207WA0011,Percentage,Person,Can speak Welsh
+KS207WA0012,Percentage,Person,Can speak but cannot read or write Welsh
+KS207WA0014,Percentage,Person,"Can speak, read and write Welsh"
+KS207WA0015,Percentage,Person,Other combination of skills in Welsh
+KS208WA0001,Count,Person,All categories: Age 3 and over
+KS208WA0002,Count,Person,Age 3 to 15
+KS208WA0003,Count,Person,Age 16 to 64
+KS208WA0004,Count,Person,Age 65 and over
+KS208WA0005,Count,Person,Can understand spoken Welsh only
+KS208WA0006,Count,Person,Can speak Welsh
+KS208WA0007,Count,Person,"Can speak, read and write Welsh"
+KS208WA0008,Count,Person,All categories: Can speak Welsh by age 3 and over
+KS208WA0009,Count,Person,Can speak Welsh: Age 3 to 15
+KS208WA0010,Count,Person,Can speak Welsh: Age 16 to 64
+KS208WA0011,Count,Person,Can speak Welsh: Age 65 and over
+KS208WA0012,Count,Person,All categories: One or more skills in Welsh age 3 and over
+KS208WA0013,Count,Person,One or more skills in Welsh: Age 3 to 15
+KS208WA0014,Count,Person,One or more skills in Welsh: Age 16 to 64
+KS208WA0015,Count,Person,One or more skills in Welsh: Age 65 and over
+KS208WA0016,Percentage,Person,Age 3 to 15
+KS208WA0017,Percentage,Person,Age 16 to 64
+KS208WA0018,Percentage,Person,Age 65 and over
+KS208WA0019,Percentage,Person,Can understand spoken Welsh only
+KS208WA0020,Percentage,Person,Can speak Welsh
+KS208WA0021,Percentage,Person,"Can speak, read and write Welsh"
+KS208WA0022,Percentage,Person,Can speak Welsh: Age 3 to 15
+KS208WA0023,Percentage,Person,Can speak Welsh: Age 16 to 64
+KS208WA0024,Percentage,Person,Can speak Welsh: Age 65 and over
+KS208WA0025,Percentage,Person,One or more skills in Welsh: Age 3 to 15
+KS208WA0026,Percentage,Person,One or more skills in Welsh: Age 16 to 64
+KS208WA0027,Percentage,Person,One or more skills in Welsh: Age 65 and over
+KS209EW0001,Count,Person,All categories: Religion
+KS209EW0002,Count,Person,Christian
+KS209EW0003,Count,Person,Buddhist
+KS209EW0004,Count,Person,Hindu
+KS209EW0005,Count,Person,Jewish
+KS209EW0006,Count,Person,Muslim
+KS209EW0007,Count,Person,Sikh
+KS209EW0008,Count,Person,Other religion
+KS209EW0009,Count,Person,No religion
+KS209EW0010,Count,Person,Religion not stated
+KS209EW0011,Percentage,Person,Christian
+KS209EW0012,Percentage,Person,Buddhist
+KS209EW0013,Percentage,Person,Hindu
+KS209EW0014,Percentage,Person,Jewish
+KS209EW0015,Percentage,Person,Muslim
+KS209EW0016,Percentage,Person,Sikh
+KS209EW0017,Percentage,Person,Other religion
+KS209EW0018,Percentage,Person,No religion
+KS209EW0019,Percentage,Person,Religion not stated
+KS301EW0001,Count,Person,All categories: Long-term health problem or disability
+KS301EW0002,Count,Person,Day-to-day activities limited a lot
+KS301EW0003,Count,Person,Day-to-day activities limited a little
+KS301EW0004,Count,Person,Day-to-day activities not limited
+KS301EW0005,Count,Person,Day-to-day activities limited a lot: Age 16 to 64
+KS301EW0006,Count,Person,Day-to-day activities limited a little: Age 16 to 64
+KS301EW0007,Count,Person,Day-to-day activities not limited: Age 16 to 64
+KS301EW0008,Count,Person,Very good health
+KS301EW0009,Count,Person,Good health
+KS301EW0010,Count,Person,Fair health
+KS301EW0011,Count,Person,Bad health
+KS301EW0012,Count,Person,Very bad health
+KS301EW0013,Count,Person,Provides no unpaid care
+KS301EW0014,Count,Person,Provides 1 to 19 hours unpaid care a week
+KS301EW0015,Count,Person,Provides 20 to 49 hours unpaid care a week
+KS301EW0016,Count,Person,Provides 50 or more hours unpaid care a week
+KS301EW0017,Percentage,Person,Day-to-day activities limited a lot
+KS301EW0018,Percentage,Person,Day-to-day activities limited a little
+KS301EW0019,Percentage,Person,Day-to-day activities not limited
+KS301EW0020,Percentage,Person,Day-to-day activities limited a lot: Age 16 to 64
+KS301EW0021,Percentage,Person,Day-to-day activities limited a little: Age 16 to 64
+KS301EW0022,Percentage,Person,Day-to-day activities not limited: Age 16 to 64
+KS301EW0023,Percentage,Person,Very good health
+KS301EW0024,Percentage,Person,Good health
+KS301EW0025,Percentage,Person,Fair health
+KS301EW0026,Percentage,Person,Bad health
+KS301EW0027,Percentage,Person,Very bad health
+KS301EW0028,Percentage,Person,Provides no unpaid care
+KS301EW0029,Percentage,Person,Provides 1 to 19 hours unpaid care a week
+KS301EW0030,Percentage,Person,Provides 20 to 49 hours unpaid care a week
+KS301EW0031,Percentage,Person,Provides 50 or more hours unpaid care a week
+KS401EW0001,Count,Dwelling,All categories: Dwelling type
+KS401EW0002,Count,Dwelling,Unshared dwelling
+KS401EW0003,Count,Dwelling,Shared dwelling: Two household spaces
+KS401EW0004,Count,Dwelling,Shared dwelling: Three or more household spaces
+KS401EW0005,Count,Household,All categories: Household spaces
+KS401EW0006,Count,Household,Household spaces with at least one usual resident
+KS401EW0007,Count,Household,Household spaces with no usual residents
+KS401EW0008,Count,Household,Whole house or bungalow: Detached
+KS401EW0009,Count,Household,Whole house or bungalow: Semi-detached
+KS401EW0010,Count,Household,Whole house or bungalow: Terraced (including end-terrace)
+KS401EW0011,Count,Household,"Flat, maisonette or apartment: Purpose-built block of flats or tenement"
+KS401EW0012,Count,Household,"Flat, maisonette or apartment: Part of a converted or shared house (including bed-sits)"
+KS401EW0013,Count,Household,"Flat, maisonette or apartment: In a commercial building"
+KS401EW0014,Count,Household,Caravan or other mobile or temporary structure
+KS401EW0015,Percentage,"Represents code used for SDMX series key completeness, as this codelist is not meaningfully used, for reason of concatenation, axis derivations etc",Unshared dwelling
+KS401EW0016,Percentage,"Represents code used for SDMX series key completeness, as this codelist is not meaningfully used, for reason of concatenation, axis derivations etc",Shared dwelling: Two household spaces
+KS401EW0017,Percentage,"Represents code used for SDMX series key completeness, as this codelist is not meaningfully used, for reason of concatenation, axis derivations etc",Shared dwelling: Three or more household spaces
+KS401EW0018,Percentage,"Represents code used for SDMX series key completeness, as this codelist is not meaningfully used, for reason of concatenation, axis derivations etc",Household spaces with at least one usual resident
+KS401EW0019,Percentage,"Represents code used for SDMX series key completeness, as this codelist is not meaningfully used, for reason of concatenation, axis derivations etc",Household spaces with no usual residents
+KS401EW0020,Percentage,"Represents code used for SDMX series key completeness, as this codelist is not meaningfully used, for reason of concatenation, axis derivations etc",Whole house or bungalow: Detached 
+KS401EW0021,Percentage,"Represents code used for SDMX series key completeness, as this codelist is not meaningfully used, for reason of concatenation, axis derivations etc",Whole house or bungalow: Semi-detached
+KS401EW0022,Percentage,"Represents code used for SDMX series key completeness, as this codelist is not meaningfully used, for reason of concatenation, axis derivations etc",Whole house or bungalow: Terraced (including end-terrace)
+KS401EW0023,Percentage,"Represents code used for SDMX series key completeness, as this codelist is not meaningfully used, for reason of concatenation, axis derivations etc","Flat, maisonette or apartment: Purpose-built block of flats or tenement"
+KS401EW0024,Percentage,"Represents code used for SDMX series key completeness, as this codelist is not meaningfully used, for reason of concatenation, axis derivations etc","Flat, maisonette or apartment: Part of a converted or shared house (including bed-sits)"
+KS401EW0025,Percentage,"Represents code used for SDMX series key completeness, as this codelist is not meaningfully used, for reason of concatenation, axis derivations etc","Flat, maisonette or apartment: In commercial building"
+KS401EW0026,Percentage,"Represents code used for SDMX series key completeness, as this codelist is not meaningfully used, for reason of concatenation, axis derivations etc",Caravan or other mobile or temporary structure 
+KS402EW0001,Count,Household,All categories: Tenure
+KS402EW0002,Count,Household,Owned: Owned outright
+KS402EW0003,Count,Household,Owned: Owned with a mortgage or loan
+KS402EW0004,Count,Household,Shared ownership (part owned and part rented)
+KS402EW0005,Count,Household,Social rented: Rented from council (Local Authority)
+KS402EW0006,Count,Household,Social rented: Other
+KS402EW0007,Count,Household,Private rented: Private landlord or letting agency
+KS402EW0008,Count,Household,Private rented: Other
+KS402EW0009,Count,Household,Living rent free
+KS402EW0010,Percentage,Household,Owned: Owned outright
+KS402EW0011,Percentage,Household,Owned: Owned with a mortgage or loan
+KS402EW0012,Percentage,Household,Shared ownership (part owned and part rented)
+KS402EW0013,Percentage,Household,Social rented: Rented from council (Local Authority)
+KS402EW0014,Percentage,Household,Social rented: Other
+KS402EW0015,Percentage,Household,Private rented: Private landlord or letting agency
+KS402EW0016,Percentage,Household,Private rented: Other
+KS402EW0017,Percentage,Household,Living rent free
+KS403EW0001,Count,Household,All categories: Type of central heating in household
+KS403EW0002,Count,Household,Does not have central heating
+KS403EW0003,Count,Household,Does have central heating
+KS403EW0004,Count,Household,Occupancy rating (rooms) of -1 or less
+KS403EW0005,Count,Household,Occupancy rating (bedrooms) of -1 or less
+KS403EW0006,Average,"Represents code used for SDMX series key completeness, as this codelist is not meaningfully used, for reason of concatenation, axis derivations etc",Average household size
+KS403EW0007,Average,"Represents code used for SDMX series key completeness, as this codelist is not meaningfully used, for reason of concatenation, axis derivations etc",Average number of rooms per household
+KS403EW0008,Average,"Represents code used for SDMX series key completeness, as this codelist is not meaningfully used, for reason of concatenation, axis derivations etc",Average number of bedrooms per household
+KS403EW0009,Percentage,"Represents code used for SDMX series key completeness, as this codelist is not meaningfully used, for reason of concatenation, axis derivations etc",Does not have central heating
+KS403EW0010,Percentage,"Represents code used for SDMX series key completeness, as this codelist is not meaningfully used, for reason of concatenation, axis derivations etc",Does have central heating
+KS403EW0011,Percentage,"Represents code used for SDMX series key completeness, as this codelist is not meaningfully used, for reason of concatenation, axis derivations etc",Occupancy rating (rooms) of -1 or less
+KS403EW0012,Percentage,"Represents code used for SDMX series key completeness, as this codelist is not meaningfully used, for reason of concatenation, axis derivations etc",Occupancy rating (bedrooms) of -1 or less
+KS404EW0001,Count,Households,All categories: Car or van availability
+KS404EW0002,Count,Households,No cars or vans in household
+KS404EW0003,Count,Households,1 car or van in household
+KS404EW0004,Count,Households,2 cars or vans in household
+KS404EW0005,Count,Households,3 cars or vans in household
+KS404EW0006,Count,Households,4 or more cars or vans in household
+KS404EW0007,Sum,All cars or vans in the area,All categories: Car or van availability
+KS404EW0008,Percentage,"Represents code used for SDMX series key completeness, as this codelist is not meaningfully used, for reason of concatenation, axis derivations etc",No cars or vans in household
+KS404EW0009,Percentage,"Represents code used for SDMX series key completeness, as this codelist is not meaningfully used, for reason of concatenation, axis derivations etc",1 car or van in household
+KS404EW0010,Percentage,"Represents code used for SDMX series key completeness, as this codelist is not meaningfully used, for reason of concatenation, axis derivations etc",2 cars or vans in household
+KS404EW0011,Percentage,"Represents code used for SDMX series key completeness, as this codelist is not meaningfully used, for reason of concatenation, axis derivations etc",3 cars or vans in household
+KS404EW0012,Percentage,"Represents code used for SDMX series key completeness, as this codelist is not meaningfully used, for reason of concatenation, axis derivations etc",4 or more cars or vans in household
+KS405EW0001,Count,Communal establishment,All communal establishments
+KS405EW0002,Count,Person,All categories: Usual residents by communal establishment management and type
+KS405EW0003,Count,Person,Medical and care establishment: NHS: General hospital
+KS405EW0004,Count,Person,Medical and care establishment: NHS: Mental health hospital/unit (including secure units)
+KS405EW0005,Count,Person,Medical and care establishment: NHS: Other hospital
+KS405EW0006,Count,Person,Medical and care establishment: Local Authority: Children's home (including secure units)
+KS405EW0007,Count,Person,Medical and care establishment: Local Authority: Care home or other home
+KS405EW0008,Count,Person,Medical and care establishment: Registered Social Landlord/Housing Association
+KS405EW0009,Count,Person,Medical and care establishment: Other: Care home with nursing
+KS405EW0010,Count,Person,Medical and care establishment: Other: Care home without nursing
+KS405EW0011,Count,Person,Medical and care establishment: Other: Children's home (including secure units)
+KS405EW0012,Count,Person,Medical and care establishment: Other
+KS405EW0013,Count,Person,Other establishments
+KS405EW0014,Count,Person,Establishment not stated
+KS405EW0015,Percentage,"Represents code used for SDMX series key completeness, as this codelist is not meaningfully used, for reason of concatenation, axis derivations etc",Medical and care establishment: NHS: General hospital
+KS405EW0016,Percentage,"Represents code used for SDMX series key completeness, as this codelist is not meaningfully used, for reason of concatenation, axis derivations etc",Medical and care establishment: NHS: Mental health hospital/unit (including secure units)
+KS405EW0017,Percentage,"Represents code used for SDMX series key completeness, as this codelist is not meaningfully used, for reason of concatenation, axis derivations etc",Medical and care establishment: NHS: Other hospital
+KS405EW0018,Percentage,"Represents code used for SDMX series key completeness, as this codelist is not meaningfully used, for reason of concatenation, axis derivations etc",Medical and care establishment: Local Authority: Children's home (including secure units)
+KS405EW0019,Percentage,"Represents code used for SDMX series key completeness, as this codelist is not meaningfully used, for reason of concatenation, axis derivations etc",Medical and care establishment: Local Authority: Care home or other home
+KS405EW0020,Percentage,"Represents code used for SDMX series key completeness, as this codelist is not meaningfully used, for reason of concatenation, axis derivations etc",Medical and care establishment: Registered Social Landlord/Housing Association
+KS405EW0021,Percentage,"Represents code used for SDMX series key completeness, as this codelist is not meaningfully used, for reason of concatenation, axis derivations etc",Medical and care establishment: Other: Care home with nursing
+KS405EW0022,Percentage,"Represents code used for SDMX series key completeness, as this codelist is not meaningfully used, for reason of concatenation, axis derivations etc",Medical and care establishment: Other: Care home without nursing
+KS405EW0023,Percentage,"Represents code used for SDMX series key completeness, as this codelist is not meaningfully used, for reason of concatenation, axis derivations etc",Medical and care establishment: Other: Children's home (including secure units)
+KS405EW0024,Percentage,"Represents code used for SDMX series key completeness, as this codelist is not meaningfully used, for reason of concatenation, axis derivations etc",Medical and care establishment: Other
+KS405EW0025,Percentage,"Represents code used for SDMX series key completeness, as this codelist is not meaningfully used, for reason of concatenation, axis derivations etc",Other establishments
+KS405EW0026,Percentage,"Represents code used for SDMX series key completeness, as this codelist is not meaningfully used, for reason of concatenation, axis derivations etc",Establishment not stated
+KS501EW0001,Count,Person,All categories: Highest level of qualification
+KS501EW0002,Count,Person,No qualifications
+KS501EW0003,Count,Person,Highest level of qualification: Level 1 qualifications
+KS501EW0004,Count,Person,Highest level of qualification: Level 2 qualifications
+KS501EW0005,Count,Person,Highest level of qualification: Apprenticeship
+KS501EW0006,Count,Person,Highest level of qualification: Level 3 qualifications
+KS501EW0007,Count,Person,Highest level of qualification: Level 4 qualifications and above
+KS501EW0008,Count,Person,Highest level of qualification: Other qualifications
+KS501EW0009,Count,Person,Schoolchildren and full-time students: Age 16 to 17
+KS501EW0010,Count,Person,Schoolchildren and full-time students: Age 18 and over
+KS501EW0011,Count,Person,Full-time students: Age 18 to 74: Economically active: In employment
+KS501EW0012,Count,Person,Full-time students: Age 18 to 74: Economically active: Unemployed
+KS501EW0013,Count,Person,Full-time students: Age 18 to 74: Economically inactive
+KS501EW0014,Percentage,Person,No qualifications
+KS501EW0015,Percentage,Person,Highest level of qualification: Level 1 qualifications
+KS501EW0016,Percentage,Person,Highest level of qualification: Level 2 qualifications
+KS501EW0017,Percentage,Person,Highest level of qualification: Apprenticeship
+KS501EW0018,Percentage,Person,Highest level of qualification: Level 3 qualifications
+KS501EW0019,Percentage,Person,Highest level of qualification: Level 4 qualifications and above
+KS501EW0020,Percentage,Person,Highest level of qualification: Other qualifications
+KS501EW0021,Percentage,Person,Schoolchildren and full-time students: Age 16 to 17
+KS501EW0022,Percentage,Person,Schoolchildren and full-time students: Age 18 and over
+KS501EW0023,Percentage,Person,Full-time students: Age 18 to 74: Economically active: In employment
+KS501EW0024,Percentage,Person,Full-time students: Age 18 to 74: Economically active: Unemployed
+KS501EW0025,Percentage,Person,Full-time students: Age 18 to 74: Economically inactive
+KS601EW0001,Count,Person,All categories: Economic activity
+KS601EW0002,Count,Person,Economically active: Employee: Part-time
+KS601EW0003,Count,Person,Economically active: Employee: Full-time
+KS601EW0004,Count,Person,Economically active: Self-employed
+KS601EW0005,Count,Person,Economically active: Unemployed
+KS601EW0006,Count,Person,Economically active: Full-time student
+KS601EW0007,Count,Person,Economically inactive: Retired
+KS601EW0008,Count,Person,Economically inactive: Student (including full-time students)
+KS601EW0009,Count,Person,Economically inactive: Looking after home or family
+KS601EW0010,Count,Person,Economically inactive: Long-term sick or disabled
+KS601EW0011,Count,Person,Economically inactive: Other
+KS601EW0012,Count,Person,Unemployed: Age 16 to 24
+KS601EW0013,Count,Person,Unemployed: Age 50 to 74
+KS601EW0014,Count,Person,Unemployed: Never worked
+KS601EW0015,Count,Person,Long-term unemployed
+KS601EW0016,Percentage,Person,Economically active: Employee: Part-time
+KS601EW0017,Percentage,Person,Economically active: Employee: Full-time
+KS601EW0018,Percentage,Person,Economically active: Self-employed
+KS601EW0019,Percentage,Person,Economically active: Unemployed
+KS601EW0020,Percentage,Person,Economically active: Full-time student
+KS601EW0021,Percentage,Person,Economically inactive: Retired
+KS601EW0022,Percentage,Person,Economically inactive: Student (including full-time students)
+KS601EW0023,Percentage,Person,Economically inactive: Looking after home or family
+KS601EW0024,Percentage,Person,Economically inactive: Long-term sick or disabled
+KS601EW0025,Percentage,Person,Economically inactive: Other
+KS601EW0026,Percentage,Person,Unemployed: Age 16 to 24
+KS601EW0027,Percentage,Person,Unemployed: Age 50 to 74
+KS601EW0028,Percentage,Person,Unemployed: Never worked
+KS601EW0029,Percentage,Person,Long-term unemployed
+KS602EW0001,Count,Person,All categories: Economic activity
+KS602EW0002,Count,Person,Economically active: Employee: Part-time
+KS602EW0003,Count,Person,Economically active: Employee: Full-time
+KS602EW0004,Count,Person,Economically active: Self-employed
+KS602EW0005,Count,Person,Economically active: Unemployed
+KS602EW0006,Count,Person,Economically active: Full-time student
+KS602EW0007,Count,Person,Economically inactive: Retired
+KS602EW0008,Count,Person,Economically inactive: Student (including full-time students)
+KS602EW0009,Count,Person,Economically inactive: Looking after home or family
+KS602EW0010,Count,Person,Economically inactive: Long-term sick or disabled
+KS602EW0011,Count,Person,Economically inactive: Other
+KS602EW0012,Count,Person,Unemployed: Age 16 to 24
+KS602EW0013,Count,Person,Unemployed: Age 50 to 74
+KS602EW0014,Count,Person,Unemployed: Never worked
+KS602EW0015,Count,Person,Long-term unemployed
+KS602EW0016,Percentage,Person,Economically active: Employee: Part-time
+KS602EW0017,Percentage,Person,Economically active: Employee: Full-time
+KS602EW0018,Percentage,Person,Economically active: Self-employed
+KS602EW0019,Percentage,Person,Economically active: Unemployed
+KS602EW0020,Percentage,Person,Economically active: Full-time student
+KS602EW0021,Percentage,Person,Economically inactive: Retired
+KS602EW0022,Percentage,Person,Economically inactive: Student (including full-time students)
+KS602EW0023,Percentage,Person,Economically inactive: Looking after home or family
+KS602EW0024,Percentage,Person,Economically inactive: Long-term sick or disabled
+KS602EW0025,Percentage,Person,Economically inactive: Other
+KS602EW0026,Percentage,Person,Unemployed: Age 16 to 24
+KS602EW0027,Percentage,Person,Unemployed: Age 50 to 74
+KS602EW0028,Percentage,Person,Unemployed: Never worked
+KS602EW0029,Percentage,Person,Long-term unemployed
+KS603EW0001,Count,Person,All categories: Economic activity
+KS603EW0002,Count,Person,Economically active: Employee: Part-time
+KS603EW0003,Count,Person,Economically active: Employee: Full-time
+KS603EW0004,Count,Person,Economically active: Self-employed
+KS603EW0005,Count,Person,Economically active: Unemployed
+KS603EW0006,Count,Person,Economically active: Full-time student
+KS603EW0007,Count,Person,Economically inactive: Retired
+KS603EW0008,Count,Person,Economically inactive: Student (including full-time students)
+KS603EW0009,Count,Person,Economically inactive: Looking after home or family
+KS603EW0010,Count,Person,Economically inactive: Long-term sick or disabled
+KS603EW0011,Count,Person,Economically inactive: Other
+KS603EW0012,Count,Person,Unemployed: Age 16 to 24
+KS603EW0013,Count,Person,Unemployed: Age 50 to 74
+KS603EW0014,Count,Person,Unemployed: Never worked
+KS603EW0015,Count,Person,Long-term unemployed
+KS603EW0016,Percentage,Person,Economically active: Employee: Part-time
+KS603EW0017,Percentage,Person,Economically active: Employee: Full-time
+KS603EW0018,Percentage,Person,Economically active: Self-employed
+KS603EW0019,Percentage,Person,Economically active: Unemployed
+KS603EW0020,Percentage,Person,Economically active: Full-time student
+KS603EW0021,Percentage,Person,Economically inactive: Retired
+KS603EW0022,Percentage,Person,Economically inactive: Student (including full-time students)
+KS603EW0023,Percentage,Person,Economically inactive: Looking after home or family
+KS603EW0024,Percentage,Person,Economically inactive: Long-term sick or disabled
+QS103EW0053,Count,Person,Age 51
+KS603EW0025,Percentage,Person,Economically inactive: Other
+KS603EW0026,Percentage,Person,Unemployed: Age 16 to 24
+KS603EW0027,Percentage,Person,Unemployed: Age 50 to 74
+KS603EW0028,Percentage,Person,Unemployed: Never worked
+KS603EW0029,Percentage,Person,Long-term unemployed
+KS604EW0001,Count,Person,All categories: Hours worked by sex
+KS604EW0002,Count,Person,Part-time: 15 hours or less worked
+KS604EW0003,Count,Person,Part-time: 16 to 30 hours worked
+KS604EW0004,Count,Person,Full-time: 31 to 48 hours worked
+KS604EW0005,Count,Person,Full-time: 49 or more hours worked
+KS604EW0006,Count,Person,Males: Total
+KS604EW0007,Count,Person,Males: Part-time: 15 hours or less worked
+KS604EW0008,Count,Person,Males: Part-time: 16 to 30 hours worked
+KS604EW0009,Count,Person,Males: Full-time: 31 to 48 hours worked
+KS604EW0010,Count,Person,Males: Full-time: 49 or more hours worked
+KS604EW0011,Count,Person,Females: Total
+KS604EW0012,Count,Person,Females: Part-time: 15 hours or less worked
+KS604EW0013,Count,Person,Females: Part-time: 16 to 30 hours worked
+KS604EW0014,Count,Person,Females: Full-time: 31 to 48 hours worked
+KS604EW0015,Count,Person,Females: Full-time: 49 or more hours worked
+KS604EW0016,Percentage,Person,Part-time: 15 hours or less worked
+KS604EW0017,Percentage,Person,Part-time: 16 to 30 hours worked
+KS604EW0018,Percentage,Person,Full-time: 31 to 48 hours worked
+KS604EW0019,Percentage,Person,Full-time: 49 or more hours worked
+KS604EW0020,Percentage,Person,Males: Total
+KS604EW0021,Percentage,Person,Males: Part-time: 15 hours or less worked
+KS604EW0022,Percentage,Person,Males: Part-time: 16 to 30 hours worked
+KS604EW0023,Percentage,Person,Males: Full-time: 31 to 48 hours worked
+KS604EW0024,Percentage,Person,Males: Full-time: 49 or more hours worked
+KS604EW0025,Percentage,Person,Females: Total
+KS604EW0026,Percentage,Person,Females: Part-time: 15 hours or less worked
+KS604EW0027,Percentage,Person,Females: Part-time: 16 to 30 hours worked
+KS604EW0028,Percentage,Person,Females: Full-time: 31 to 48 hours worked
+KS604EW0029,Percentage,Person,Females: Full-time: 49 or more hours worked
+KS605EW0001,Count,Person,All categories: Industry
+KS605EW0002,Count,Person,"A Agriculture, forestry and fishing"
+KS605EW0003,Count,Person,B Mining and quarrying
+KS605EW0004,Count,Person,C Manufacturing
+KS605EW0005,Count,Person,"D Electricity, gas, steam and air conditioning supply "
+KS605EW0006,Count,Person,"E Water supply; sewerage, waste management and remediation activities"
+KS605EW0007,Count,Person,F Construction
+KS605EW0008,Count,Person,G Wholesale and retail trade; repair of motor vehicles and motor cycles
+KS605EW0009,Count,Person,H Transport and storage
+KS605EW0010,Count,Person,I Accommodation and food service activities
+KS605EW0011,Count,Person,J Information and communication
+KS605EW0012,Count,Person,K Financial and insurance activities
+KS605EW0013,Count,Person,L Real estate activities
+KS605EW0014,Count,Person,"M Professional, scientific and technical activities"
+KS605EW0015,Count,Person,N Administrative and support service activities
+KS605EW0016,Count,Person,O Public administration and defence; compulsory social security
+KS605EW0017,Count,Person,P Education
+KS605EW0018,Count,Person,Q Human health and social work activities
+KS605EW0019,Count,Person,"R, S, T, U Other"
+KS605EW0020,Percentage,Person,"A Agriculture, forestry and fishing"
+KS605EW0021,Percentage,Person,B Mining and quarrying
+KS605EW0022,Percentage,Person,C Manufacturing
+KS605EW0023,Percentage,Person,"D Electricity, gas, steam and air conditioning supply"
+KS605EW0024,Percentage,Person,"E Water supply; sewerage, waste management and remediation activities"
+KS605EW0025,Percentage,Person,F Construction
+KS605EW0026,Percentage,Person,G Wholesale and retail trade; repair of motor vehicles and motor cycles
+KS605EW0027,Percentage,Person,H Transport and storage
+KS605EW0028,Percentage,Person,I Accommodation and food service activities
+KS605EW0029,Percentage,Person,J Information and communication
+KS605EW0030,Percentage,Person,K Financial and insurance activities
+KS605EW0031,Percentage,Person,L Real estate activities
+KS605EW0032,Percentage,Person,"M Professional, scientific and technical activities"
+KS605EW0033,Percentage,Person,N Administrative and support service activities
+KS605EW0034,Percentage,Person,O Public administration and defence; compulsory social security
+KS605EW0035,Percentage,Person,P Education
+KS605EW0036,Percentage,Person,Q Human health and social work activities
+KS605EW0037,Percentage,Person,"R, S, T, U Other"
+KS606EW0001,Count,Person,All categories: Industry
+KS606EW0002,Count,Person,"A Agriculture, forestry and fishing"
+KS606EW0003,Count,Person,B Mining and quarrying
+KS606EW0004,Count,Person,C Manufacturing
+KS606EW0005,Count,Person,"D Electricity, gas, steam and air conditioning supply "
+KS606EW0006,Count,Person,"E Water supply; sewerage, waste management and remediation activities"
+KS606EW0007,Count,Person,F Construction
+KS606EW0008,Count,Person,G Wholesale and retail trade; repair of motor vehicles and motor cycles
+KS606EW0009,Count,Person,H Transport and storage
+KS606EW0010,Count,Person,I Accommodation and food service activities
+KS606EW0011,Count,Person,J Information and communication
+KS606EW0012,Count,Person,K Financial and insurance activities
+KS606EW0013,Count,Person,L Real estate activities
+KS606EW0014,Count,Person,"M Professional, scientific and technical activities"
+QS103EW0054,Count,Person,Age 52
+KS606EW0015,Count,Person,N Administrative and support service activities
+KS606EW0016,Count,Person,O Public administration and defence; compulsory social security
+KS606EW0017,Count,Person,P Education
+KS606EW0018,Count,Person,Q Human health and social work activities
+KS606EW0019,Count,Person,"R, S, T, U Other"
+KS606EW0020,Percentage,Person,"A Agriculture, forestry and fishing"
+KS606EW0021,Percentage,Person,B Mining and quarrying
+KS606EW0022,Percentage,Person,C Manufacturing
+KS606EW0023,Percentage,Person,"D Electricity, gas, steam and air conditioning supply"
+KS606EW0024,Percentage,Person,"E Water supply; sewerage, waste management and remediation activities"
+KS606EW0025,Percentage,Person,F Construction
+KS606EW0026,Percentage,Person,G Wholesale and retail trade; repair of motor vehicles and motor cycles
+KS606EW0027,Percentage,Person,H Transport and storage
+KS606EW0028,Percentage,Person,I Accommodation and food service activities
+KS606EW0029,Percentage,Person,J Information and communication
+KS606EW0030,Percentage,Person,K Financial and insurance activities
+KS606EW0031,Percentage,Person,L Real estate activities
+KS606EW0032,Percentage,Person,"M Professional, scientific and technical activities"
+KS606EW0033,Percentage,Person,N Administrative and support service activities
+KS606EW0034,Percentage,Person,O Public administration and defence; compulsory social security
+KS606EW0035,Percentage,Person,P Education
+KS606EW0036,Percentage,Person,Q Human health and social work activities
+KS606EW0037,Percentage,Person,"R, S, T, U Other"
+KS607EW0001,Count,Person,All categories: Industry
+KS607EW0002,Count,Person,"A Agriculture, forestry and fishing"
+KS607EW0003,Count,Person,B Mining and quarrying
+KS607EW0004,Count,Person,C Manufacturing
+KS607EW0005,Count,Person,"D Electricity, gas, steam and air conditioning supply "
+KS607EW0006,Count,Person,"E Water supply; sewerage, waste management and remediation activities"
+KS607EW0007,Count,Person,F Construction
+KS607EW0008,Count,Person,G Wholesale and retail trade; repair of motor vehicles and motor cycles
+KS607EW0009,Count,Person,H Transport and storage
+KS607EW0010,Count,Person,I Accommodation and food service activities
+KS607EW0011,Count,Person,J Information and communication
+KS607EW0012,Count,Person,K Financial and insurance activities
+KS607EW0013,Count,Person,L Real estate activities
+KS607EW0014,Count,Person,"M Professional, scientific and technical activities"
+KS607EW0015,Count,Person,N Administrative and support service activities
+KS607EW0016,Count,Person,O Public administration and defence; compulsory social security
+KS607EW0017,Count,Person,P Education
+KS607EW0018,Count,Person,Q Human health and social work activities
+KS607EW0019,Count,Person,"R, S, T, U Other"
+KS607EW0020,Percentage,Person,"A Agriculture, forestry and fishing"
+KS607EW0021,Percentage,Person,B Mining and quarrying
+KS607EW0022,Percentage,Person,C Manufacturing
+KS607EW0023,Percentage,Person,"D Electricity, gas, steam and air conditioning supply"
+KS607EW0024,Percentage,Person,"E Water supply; sewerage, waste management and remediation activities"
+KS607EW0025,Percentage,Person,F Construction
+KS607EW0026,Percentage,Person,G Wholesale and retail trade; repair of motor vehicles and motor cycles
+KS607EW0027,Percentage,Person,H Transport and storage
+KS607EW0028,Percentage,Person,I Accommodation and food service activities
+KS607EW0029,Percentage,Person,J Information and communication
+KS607EW0030,Percentage,Person,K Financial and insurance activities
+KS607EW0031,Percentage,Person,L Real estate activities
+KS607EW0032,Percentage,Person,"M Professional, scientific and technical activities"
+KS607EW0033,Percentage,Person,N Administrative and support service activities
+KS607EW0034,Percentage,Person,O Public administration and defence; compulsory social security
+KS607EW0035,Percentage,Person,P Education
+KS607EW0036,Percentage,Person,Q Human health and social work activities
+KS607EW0037,Percentage,Person,"R, S, T, U Other"
+KS608EW0001,Count,Person,All categories: Occupation
+KS608EW0002,Count,Person,"1. Managers, directors and senior officials"
+KS608EW0003,Count,Person,2. Professional occupations
+KS608EW0004,Count,Person,3. Associate professional and technical occupations
+KS608EW0005,Count,Person,4. Administrative and secretarial occupations
+KS608EW0006,Count,Person,5. Skilled trades occupations
+KS608EW0007,Count,Person,"6. Caring, leisure and other service occupations"
+KS608EW0008,Count,Person,7. Sales and customer service occupations
+KS608EW0009,Count,Person,"8. Process, plant and machine operatives"
+KS608EW0010,Count,Person,9. Elementary occupations
+KS608EW0011,Percentage,Person,"1. Managers, directors and senior officials"
+KS608EW0012,Percentage,Person,2. Professional occupations
+KS608EW0013,Percentage,Person,3. Associate professional and technical occupations
+KS608EW0014,Percentage,Person,4. Administrative and secretarial occupations
+KS608EW0015,Percentage,Person,5. Skilled trades occupations
+KS608EW0016,Percentage,Person,"6. Caring, leisure and other service occupations"
+KS608EW0017,Percentage,Person,7. Sales and customer service occupations
+KS608EW0018,Percentage,Person,"8. Process, plant and machine operatives"
+KS608EW0019,Percentage,Person,9. Elementary occupations
+KS609EW0001,Count,Person,All categories: Occupation
+KS609EW0002,Count,Person,"1. Managers, directors and senior officials"
+KS609EW0003,Count,Person,2. Professional occupations
+KS609EW0004,Count,Person,3. Associate professional and technical occupations
+QS103EW0055,Count,Person,Age 53
+KS609EW0005,Count,Person,4. Administrative and secretarial occupations
+KS609EW0006,Count,Person,5. Skilled trades occupations
+KS609EW0007,Count,Person,"6. Caring, leisure and other service occupations"
+KS609EW0008,Count,Person,7. Sales and customer service occupations
+KS609EW0009,Count,Person,"8. Process, plant and machine operatives"
+KS609EW0010,Count,Person,9. Elementary occupations
+KS609EW0011,Percentage,Person,"1. Managers, directors and senior officials"
+KS609EW0012,Percentage,Person,2. Professional occupations
+KS609EW0013,Percentage,Person,3. Associate professional and technical occupations
+KS609EW0014,Percentage,Person,4. Administrative and secretarial occupations
+KS609EW0015,Percentage,Person,5. Skilled trades occupations
+KS609EW0016,Percentage,Person,"6. Caring, leisure and other service occupations"
+KS609EW0017,Percentage,Person,7. Sales and customer service occupations
+KS609EW0018,Percentage,Person,"8. Process, plant and machine operatives"
+KS609EW0019,Percentage,Person,9. Elementary occupations
+KS610EW0001,Count,Person,All categories: Occupation
+KS610EW0002,Count,Person,"1. Managers, directors and senior officials"
+KS610EW0003,Count,Person,2. Professional occupations
+KS610EW0004,Count,Person,3. Associate professional and technical occupations
+KS610EW0005,Count,Person,4. Administrative and secretarial occupations
+KS610EW0006,Count,Person,5. Skilled trades occupations
+KS610EW0007,Count,Person,"6. Caring, leisure and other service occupations"
+KS610EW0008,Count,Person,7. Sales and customer service occupations
+KS610EW0009,Count,Person,"8. Process, plant and machine operatives"
+KS610EW0010,Count,Person,9. Elementary occupations
+KS610EW0011,Percentage,Person,"1. Managers, directors and senior officials"
+KS610EW0012,Percentage,Person,2. Professional occupations
+KS610EW0013,Percentage,Person,3. Associate professional and technical occupations
+KS610EW0014,Percentage,Person,4. Administrative and secretarial occupations
+KS610EW0015,Percentage,Person,5. Skilled trades occupations
+KS610EW0016,Percentage,Person,"6. Caring, leisure and other service occupations"
+KS610EW0017,Percentage,Person,7. Sales and customer service occupations
+KS610EW0018,Percentage,Person,"8. Process, plant and machine operatives"
+KS610EW0019,Percentage,Person,9. Elementary occupations
+KS611EW0001,Count,Person,All categories: NS-SeC
+KS611EW0002,Count,Person,"1. Higher managerial, administrative and professional occupations"
+KS611EW0003,Count,Person,1.1 Large employers and higher managerial and administrative occupations
+KS611EW0004,Count,Person,1.2 Higher professional occupations
+KS611EW0005,Count,Person,"2. Lower managerial, administrative and professional occupations"
+KS611EW0006,Count,Person,3. Intermediate occupations
+KS611EW0007,Count,Person,4. Small employers and own account workers
+KS611EW0008,Count,Person,5. Lower supervisory and technical occupations
+KS611EW0009,Count,Person,6. Semi-routine occupations
+KS611EW0010,Count,Person,7. Routine occupations
+KS611EW0011,Count,Person,8. Never worked and long-term unemployed
+KS611EW0012,Count,Person,L14.1 Never worked
+KS611EW0013,Count,Person,L14.2 Long-term unemployed
+KS611EW0014,Count,Person,Not classified
+KS611EW0015,Count,Person,L15 Full-time students
+KS611EW0016,Count,Person,L17 Not classifiable for other reasons
+KS611EW0017,Percentage,Person,"1. Higher managerial, administrative and professional occupations"
+KS611EW0018,Percentage,Person,1.1 Large employers and higher managerial and administrative occupations
+KS611EW0019,Percentage,Person,1.2 Higher professional occupations
+KS611EW0020,Percentage,Person,"2. Lower managerial, administrative and professional occupations"
+KS611EW0021,Percentage,Person,3. Intermediate occupations
+KS611EW0022,Percentage,Person,4. Small employers and own account workers
+KS611EW0023,Percentage,Person,5. Lower supervisory and technical occupations
+KS611EW0024,Percentage,Person,6. Semi-routine occupations
+KS611EW0025,Percentage,Person,7. Routine occupations
+KS611EW0026,Percentage,Person,8. Never worked and long-term unemployed
+KS611EW0027,Percentage,Person,L14.1 Never worked
+KS611EW0028,Percentage,Person,L14.2 Long-term unemployed
+KS611EW0029,Percentage,Person,Not classified
+KS611EW0030,Percentage,Person,L15 Full-time students
+KS611EW0031,Percentage,Person,L17 Not classifiable for other reasons
+KS612EW0001,Count,Person,All categories: NS-SeC
+KS612EW0002,Count,Person,"1. Higher managerial, administrative and professional occupations"
+KS612EW0003,Count,Person,1.1 Large employers and higher managerial and administrative occupations
+KS612EW0004,Count,Person,1.2 Higher professional occupations
+KS612EW0005,Count,Person,"2. Lower managerial, administrative and professional occupations"
+KS612EW0006,Count,Person,3. Intermediate occupations
+KS612EW0007,Count,Person,4. Small employers and own account workers
+KS612EW0008,Count,Person,5. Lower supervisory and technical occupations
+KS612EW0009,Count,Person,6. Semi-routine occupations
+KS612EW0010,Count,Person,7. Routine occupations
+KS612EW0011,Count,Person,8. Never worked and long-term unemployed
+KS612EW0012,Count,Person,L14.1 Never worked
+KS612EW0013,Count,Person,L14.2 Long-term unemployed
+KS612EW0014,Count,Person,Not classified
+KS612EW0015,Count,Person,L15 Full-time students
+KS612EW0016,Count,Person,L17 Not classifiable for other reasons
+KS612EW0017,Percentage,Person,"1. Higher managerial, administrative and professional occupations"
+KS612EW0018,Percentage,Person,1.1 Large employers and higher managerial and administrative occupations
+QS103EW0056,Count,Person,Age 54
+KS612EW0019,Percentage,Person,1.2 Higher professional occupations
+KS612EW0020,Percentage,Person,"2. Lower managerial, administrative and professional occupations"
+KS612EW0021,Percentage,Person,3. Intermediate occupations
+KS612EW0022,Percentage,Person,4. Small employers and own account workers
+KS612EW0023,Percentage,Person,5. Lower supervisory and technical occupations
+KS612EW0024,Percentage,Person,6. Semi-routine occupations
+KS612EW0025,Percentage,Person,7. Routine occupations
+KS612EW0026,Percentage,Person,8. Never worked and long-term unemployed
+KS612EW0027,Percentage,Person,L14.1 Never worked
+KS612EW0028,Percentage,Person,L14.2 Long-term unemployed
+KS612EW0029,Percentage,Person,Not classified
+KS612EW0030,Percentage,Person,L15 Full-time students
+KS612EW0031,Percentage,Person,L17 Not classifiable for other reasons
+KS613EW0001,Count,Person,All categories: NS-SeC
+KS613EW0002,Count,Person,"1. Higher managerial, administrative and professional occupations"
+KS613EW0003,Count,Person,1.1 Large employers and higher managerial and administrative occupations
+KS613EW0004,Count,Person,1.2 Higher professional occupations
+KS613EW0005,Count,Person,"2. Lower managerial, administrative and professional occupations"
+KS613EW0006,Count,Person,3. Intermediate occupations
+KS613EW0007,Count,Person,4. Small employers and own account workers
+KS613EW0008,Count,Person,5. Lower supervisory and technical occupations
+KS613EW0009,Count,Person,6. Semi-routine occupations
+KS613EW0010,Count,Person,7. Routine occupations
+KS613EW0011,Count,Person,8. Never worked and long-term unemployed
+KS613EW0012,Count,Person,L14.1 Never worked
+KS613EW0013,Count,Person,L14.2 Long-term unemployed
+KS613EW0014,Count,Person,Not classified
+KS613EW0015,Count,Person,L15 Full-time students
+KS613EW0016,Count,Person,L17 Not classifiable for other reasons
+KS613EW0017,Percentage,Person,"1. Higher managerial, administrative and professional occupations"
+KS613EW0018,Percentage,Person,1.1 Large employers and higher managerial and administrative occupations
+KS613EW0019,Percentage,Person,1.2 Higher professional occupations
+KS613EW0020,Percentage,Person,"2. Lower managerial, administrative and professional occupations"
+KS613EW0021,Percentage,Person,3. Intermediate occupations
+KS613EW0022,Percentage,Person,4. Small employers and own account workers
+KS613EW0023,Percentage,Person,5. Lower supervisory and technical occupations
+KS613EW0024,Percentage,Person,6. Semi-routine occupations
+KS613EW0025,Percentage,Person,7. Routine occupations
+KS613EW0026,Percentage,Person,8. Never worked and long-term unemployed
+KS613EW0027,Percentage,Person,L14.1 Never worked
+KS613EW0028,Percentage,Person,L14.2 Long-term unemployed
+KS613EW0029,Percentage,Person,Not classified
+KS613EW0030,Percentage,Person,L15 Full-time students
+KS613EW0031,Percentage,Person,L17 Not classifiable for other reasons
+QS101EW0001,Count,Person,All categories: Residence type
+QS101EW0002,Count,Person,Lives in a household
+QS101EW0003,Count,Person,Lives in a communal establishment
+QS101EW0004,Count,Communal establishment,Communal establishments with persons sleeping rough identified
+QS102EW0001,Count,Person,All usual residents
+QS102EW0002,Sum,Area (Hectares),Area(Hectares)
+QS102EW0003,Ratio,"Represents code used for SDMX series key completeness, as this codelist is not meaningfully used, for reason of concatenation, axis derivations etc",Density (number of persons per hectare)
+QS103EW0001,Count,Person,All categories: Age
+QS103EW0002,Count,Person,Age under 1
+QS103EW0003,Count,Person,Age 1
+QS103EW0004,Count,Person,Age 2
+QS103EW0005,Count,Person,Age 3
+QS103EW0006,Count,Person,Age 4
+QS103EW0007,Count,Person,Age 5
+QS103EW0008,Count,Person,Age 6
+QS103EW0009,Count,Person,Age 7
+QS103EW0010,Count,Person,Age 8
+QS103EW0011,Count,Person,Age 9
+QS103EW0012,Count,Person,Age 10
+QS103EW0013,Count,Person,Age 11
+QS103EW0014,Count,Person,Age 12
+QS103EW0015,Count,Person,Age 13
+QS103EW0016,Count,Person,Age 14
+QS103EW0017,Count,Person,Age 15
+QS103EW0018,Count,Person,Age 16
+QS103EW0019,Count,Person,Age 17
+QS103EW0020,Count,Person,Age 18
+QS103EW0021,Count,Person,Age 19
+QS103EW0022,Count,Person,Age 20
+QS103EW0023,Count,Person,Age 21
+QS103EW0024,Count,Person,Age 22
+QS103EW0025,Count,Person,Age 23
+QS103EW0026,Count,Person,Age 24
+QS103EW0027,Count,Person,Age 25
+QS103EW0028,Count,Person,Age 26
+QS103EW0029,Count,Person,Age 27
+QS103EW0030,Count,Person,Age 28
+QS103EW0031,Count,Person,Age 29
+QS103EW0032,Count,Person,Age 30
+QS103EW0033,Count,Person,Age 31
+QS103EW0034,Count,Person,Age 32
+QS103EW0035,Count,Person,Age 33
+QS103EW0036,Count,Person,Age 34
+QS103EW0037,Count,Person,Age 35
+QS103EW0038,Count,Person,Age 36
+QS103EW0039,Count,Person,Age 37
+QS103EW0040,Count,Person,Age 38
+QS103EW0041,Count,Person,Age 39
+QS103EW0042,Count,Person,Age 40
+QS103EW0043,Count,Person,Age 41
+QS103EW0044,Count,Person,Age 42
+QS103EW0045,Count,Person,Age 43
+QS103EW0046,Count,Person,Age 44
+QS103EW0047,Count,Person,Age 45
+QS103EW0048,Count,Person,Age 46
+QS103EW0049,Count,Person,Age 47
+QS103EW0050,Count,Person,Age 48
+QS103EW0051,Count,Person,Age 49
+QS103EW0052,Count,Person,Age 50
+QS103EW0058,Count,Person,Age 56
+QS103EW0059,Count,Person,Age 57
+QS103EW0060,Count,Person,Age 58
+QS103EW0061,Count,Person,Age 59
+QS103EW0062,Count,Person,Age 60
+QS103EW0063,Count,Person,Age 61
+QS103EW0064,Count,Person,Age 62
+QS103EW0065,Count,Person,Age 63
+QS103EW0066,Count,Person,Age 64
+QS103EW0067,Count,Person,Age 65
+QS103EW0068,Count,Person,Age 66
+QS103EW0069,Count,Person,Age 67
+QS103EW0070,Count,Person,Age 68
+QS103EW0071,Count,Person,Age 69
+QS103EW0072,Count,Person,Age 70
+QS103EW0073,Count,Person,Age 71
+QS103EW0074,Count,Person,Age 72
+QS103EW0075,Count,Person,Age 73
+QS103EW0076,Count,Person,Age 74
+QS103EW0077,Count,Person,Age 75
+QS103EW0078,Count,Person,Age 76
+QS103EW0079,Count,Person,Age 77
+QS103EW0080,Count,Person,Age 78
+QS103EW0081,Count,Person,Age 79
+QS103EW0082,Count,Person,Age 80
+QS103EW0083,Count,Person,Age 81
+QS103EW0084,Count,Person,Age 82
+QS103EW0085,Count,Person,Age 83
+QS103EW0086,Count,Person,Age 84
+QS103EW0087,Count,Person,Age 85
+QS103EW0088,Count,Person,Age 86
+QS103EW0089,Count,Person,Age 87
+QS103EW0090,Count,Person,Age 88
+QS103EW0091,Count,Person,Age 89
+QS103EW0092,Count,Person,Age 90
+QS103EW0093,Count,Person,Age 91
+QS103EW0094,Count,Person,Age 92
+QS103EW0095,Count,Person,Age 93
+QS103EW0096,Count,Person,Age 94
+QS103EW0097,Count,Person,Age 95
+QS103EW0098,Count,Person,Age 96
+QS103EW0099,Count,Person,Age 97
+QS103EW0100,Count,Person,Age 98
+QS103EW0101,Count,Person,Age 99
+QS103EW0102,Count,Person,Age 100 and over
+QS104EW0001,Count,Person,All categories: Sex
+QS104EW0002,Count,Person,Males
+QS104EW0003,Count,Person,Females
+QS105EW0001,Count,Person,All categories: Sex
+QS105EW0002,Count,Person,Males
+QS105EW0003,Count,Person,Females
+QS106EW0001,Count,Person,All categories: Second address
+QS106EW0002,Count,Person,No second address
+QS106EW0003,Count,Person,Second address within the UK
+QS106EW0004,Count,Person,Second address outside the UK
+QS108EW0001,Count,Person,All categories: Living arrangements
+QS108EW0002,Count,Person,Living in a couple: Total
+QS108EW0003,Count,Person,Living in a couple: Married
+QS108EW0004,Count,Person,Living in a couple: Cohabiting (opposite-sex)
+QS108EW0005,Count,Person,Living in a couple: In a registered same-sex civil partnership or cohabiting (same-sex)
+QS108EW0006,Count,Person,Not living in a couple: Total
+QS108EW0007,Count,Person,Not living in a couple: Single (never married or never registered a same-sex civil partnership)
+QS108EW0008,Count,Person,Not living in a couple: Married or in a registered same-sex civil partnership
+QS108EW0009,Count,Person,Not living in a couple: Separated (but still legally married or still legally in a same-sex civil partnership)
+QS108EW0010,Count,Person,Not living in a couple: Divorced or formerly in a same-sex civil partnership which is now legally dissolved
+QS108EW0011,Count,Person,Not living in a couple: Widowed or surviving partner from a same-sex civil partnership
+QS110EW0001,Count,Person,All categories: Adult lifestage
+QS110EW0002,Count,Person,Age 16 to 24: Total
+QS110EW0003,Count,Person,Age 16 to 24: No dependent children in household
+QS110EW0004,Count,Person,Age 16 to 24: Dependent children in household
+QS110EW0005,Count,Person,Age 25 to 34: Total
+QS110EW0006,Count,Person,Age 25 to 34: No dependent children in household
+QS110EW0007,Count,Person,Age 25 to 34: Youngest dependent child in household aged 0 to 4
+QS110EW0008,Count,Person,Age 25 to 34: Youngest dependent child in household aged 5 to 10
+QS110EW0009,Count,Person,Age 25 to 34: Youngest dependent child in household aged 11 to 15
+QS110EW0010,Count,Person,Age 25 to 34: Youngest dependent child in household aged 16 to 18
+QS110EW0011,Count,Person,Age 35 to 54: Total
+QS110EW0012,Count,Person,Age 35 to 54: No dependent children in household
+QS110EW0013,Count,Person,Age 35 to 54: Youngest dependent child in household aged 0 to 4
+QS110EW0014,Count,Person,Age 35 to 54: Youngest dependent child in household aged 5 to 10
+QS110EW0015,Count,Person,Age 35 to 54: Youngest dependent child in household aged 11 to 15
+QS110EW0016,Count,Person,Age 35 to 54: Youngest dependent child in household aged 16 to 18
+QS110EW0017,Count,Person,Age 55 to 64: Total
+QS110EW0018,Count,Person,Age 55 to 64: One person household
+QS110EW0019,Count,Person,Age 55 to 64: Two or more person household: No dependent children
+QS110EW0020,Count,Person,Age 55 to 64: Dependent children in household
+QS110EW0021,Count,Person,Age 65 to 74: Total
+QS110EW0022,Count,Person,Age 65 to 74: One person household
+QS110EW0023,Count,Person,Age 65 to 74: Two or more person household: No dependent children
+QS110EW0024,Count,Person,Age 65 to 74: Dependent children in household
+QS110EW0025,Count,Person,Age 75 and over: Total
+QS110EW0026,Count,Person,Age 75 and over: One person household
+QS110EW0027,Count,Person,Age 75 and over: Two or more person household
+QS111EW0001,Count,Household,All categories: Household lifestage
+QS111EW0002,Count,Household,Age of HRP under 35: Total
+QS111EW0003,Count,Household,Age of HRP under 35: One person household
+QS111EW0004,Count,Household,Age of HRP under 35: Two or more person household: No dependent children
+QS111EW0005,Count,Household,Age of HRP under 35: Two or more person household: With dependent children
+QS111EW0006,Count,Household,Age of HRP 35 to 54: Total
+QS111EW0007,Count,Household,Age of HRP 35 to 54: One person household
+QS111EW0008,Count,Household,Age of HRP 35 to 54: Two or more person household: No dependent children
+QS111EW0009,Count,Household,Age of HRP 35 to 54: Two or more person household: With dependent children
+QS111EW0010,Count,Household,Age of HRP 55 to 64: Total
+QS111EW0011,Count,Household,Age of HRP 55 to 64: One person household
+QS111EW0012,Count,Household,Age of HRP 55 to 64: Two or more person household: No dependent children
+QS111EW0013,Count,Household,Age of HRP 55 to 64: Two or more person household: With dependent children
+QS111EW0014,Count,Household,Age of HRP 65 and over: Total
+QS111EW0015,Count,Household,Age of HRP 65 and over: One person household
+QS111EW0016,Count,Household,Age of HRP 65 and over: Two or more person household: No dependent children
+QS111EW0017,Count,Household,Age of HRP 65 and over: Two or more person household: With dependent children
+QS112EW0001,Count,Person,All categories: Household composition
+QS112EW0002,Count,Person,One person household: Total
+QS112EW0003,Count,Person,One person household: Aged 65 and over
+QS112EW0004,Count,Person,One person household: Other
+QS112EW0005,Count,Person,One family only: Total
+QS112EW0006,Count,Person,One family only: All aged 65 and over
+QS112EW0007,Count,Person,One family only: Married couple: Total
+QS112EW0008,Count,Person,One family only: Married couple: No children
+QS112EW0009,Count,Person,One family only: Married couple: One dependent child
+QS112EW0010,Count,Person,One family only: Married couple: Two or more dependent children
+QS112EW0011,Count,Person,One family only: Married couple: All children non-dependent
+QS112EW0012,Count,Person,One family only: Same-sex civil partnership couple: Total
+QS112EW0013,Count,Person,One family only: Same-sex civil partnership couple: No children
+QS112EW0014,Count,Person,One family only: Same-sex civil partnership couple: One dependent child
+QS112EW0015,Count,Person,One family only: Same-sex civil partnership couple: Two or more dependent children
+QS112EW0016,Count,Person,One family only: Same-sex civil partnership couple: All children non-dependent
+QS112EW0017,Count,Person,One family only: Cohabiting couple: Total
+QS112EW0018,Count,Person,One family only: Cohabiting couple: No children
+QS112EW0019,Count,Person,One family only: Cohabiting couple: One dependent child
+QS112EW0020,Count,Person,One family only: Cohabiting couple: Two or more dependent children
+QS112EW0021,Count,Person,One family only: Cohabiting couple: All children non-dependent
+QS112EW0022,Count,Person,One family only: Lone parent: Total
+QS112EW0023,Count,Person,One family only: Lone parent: One dependent child
+QS112EW0024,Count,Person,One family only: Lone parent: Two or more dependent children
+QS112EW0025,Count,Person,One family only: Lone parent: All children non-dependent
+QS112EW0026,Count,Person,Other household types: Total
+QS112EW0027,Count,Person,Other household types: With one dependent child
+QS112EW0028,Count,Person,Other household types: With two or more dependent children
+QS112EW0029,Count,Person,Other household types: All full-time students
+QS112EW0030,Count,Person,Other household types: All aged 65 and over
+QS112EW0031,Count,Person,Other household types: Other
+QS113EW0001,Count,Household,All categories: Household composition
+QS113EW0002,Count,Household,One person household: Total
+QS113EW0003,Count,Household,One person household: Aged 65 and over
+QS113EW0004,Count,Household,One person household: Other
+QS113EW0005,Count,Household,One family only: Total
+QS113EW0006,Count,Household,One family only: All aged 65 and over
+QS113EW0007,Count,Household,One family only: Married couple: Total
+QS113EW0008,Count,Household,One family only: Married couple: No children
+QS113EW0009,Count,Household,One family only: Married couple: One dependent child
+QS113EW0010,Count,Household,One family only: Married couple: Two or more dependent children
+QS113EW0011,Count,Household,One family only: Married couple: All children non-dependent
+QS113EW0012,Count,Household,One family only: Same-sex civil partnership couple: Total
+QS113EW0013,Count,Household,One family only: Same-sex civil partnership couple: No children
+QS113EW0014,Count,Household,One family only: Same-sex civil partnership couple: One dependent child
+QS113EW0015,Count,Household,One family only: Same-sex civil partnership couple: Two or more dependent children
+QS113EW0016,Count,Household,One family only: Same-sex civil partnership couple: All children non-dependent
+QS113EW0017,Count,Household,One family only: Cohabiting couple: Total
+QS113EW0018,Count,Household,One family only: Cohabiting couple: No children
+QS113EW0019,Count,Household,One family only: Cohabiting couple: One dependent child
+QS113EW0020,Count,Household,One family only: Cohabiting couple: Two or more dependent children
+QS113EW0021,Count,Household,One family only: Cohabiting couple: All children non-dependent
+QS113EW0022,Count,Household,One family only: Lone parent: Total
+QS113EW0023,Count,Household,One family only: Lone parent: One dependent child
+QS113EW0024,Count,Household,One family only: Lone parent: Two or more dependent children
+QS113EW0025,Count,Household,One family only: Lone parent: All children non-dependent
+QS113EW0026,Count,Household,Other household types: Total
+QS113EW0027,Count,Household,Other household types: With one dependent child
+QS113EW0028,Count,Household,Other household types: With two or more dependent children
+QS113EW0029,Count,Household,Other household types: All full-time students
+QS113EW0030,Count,Household,Other household types: All aged 65 and over
+QS113EW0031,Count,Household,Other household types: Other
+QS202EW0001,Count,Household,All categories: Multiple ethnic groups
+QS114EW0001,Count,Person,All categories: Household composition (alternative child and adult defintions)
+QS114EW0002,Count,Person,One person household: Total
+QS114EW0003,Count,Person,One person household: One person aged 65 and over
+QS114EW0004,Count,Person,One person household: One person aged under 65
+QS114EW0005,Count,Person,Other households: Total
+QS114EW0006,Count,Person,Other households: No adults or one adult and one or more children
+QS114EW0007,Count,Person,Other households: One adult aged 16 to 64 and one aged 65 and over and no children or two adults aged 65 and over and no children
+QS114EW0008,Count,Person,Other households: Two adults and one or two children
+QS114EW0009,Count,Person,Other households: Two adults aged 16 to 64 and no children
+QS114EW0010,Count,Person,Other households: Two adults and three or more children
+QS114EW0011,Count,Person,Other households: Three or more adults and one or more children
+QS114EW0012,Count,Person,Other households: Three or more adults and no children
+QS115EW0001,Count,Household,All categories: Household composition (alternative child and adult defintions)
+QS115EW0002,Count,Household,One person household: Total
+QS115EW0003,Count,Household,One person household: One person aged 65 and over
+QS115EW0004,Count,Household,One person household: One person aged under 65
+QS115EW0005,Count,Household,Other households: Total
+QS115EW0006,Count,Household,Other households: No adults or one adult and one or more children
+QS115EW0007,Count,Household,Other households: One adult aged 16 to 64 and one aged 65 and over and no children or two adults aged 65 and over and no children
+QS115EW0008,Count,Household,Other households: Two adults and one or two children
+QS115EW0009,Count,Household,Other households: Two adults aged 16 to 64 and no children
+QS115EW0010,Count,Household,Other households: Two adults and three or more children
+QS115EW0011,Count,Household,Other households: Three or more adults and one or more children
+QS115EW0012,Count,Household,Other households: Three or more adults and no children
+QS116EW0001,Count,Household,All categories: Household type
+QS116EW0002,Count,Household,One person household
+QS116EW0003,Count,Household,Married couple household: With dependent children
+QS116EW0004,Count,Household,Married couple household: No dependent children
+QS116EW0005,Count,Household,Same-sex civil partnership couple household: With dependent children
+QS116EW0006,Count,Household,Same-sex civil partnership couple household: No dependent children
+QS116EW0007,Count,Household,Cohabiting couple household: With dependent children
+QS116EW0008,Count,Household,Cohabiting couple household: No dependent children
+QS116EW0009,Count,Household,Lone parent household: With dependent children
+QS116EW0010,Count,Household,Lone parent household: No dependent children
+QS116EW0011,Count,Household,Multi-person household: All full-time students
+QS116EW0012,Count,Household,Multi-person household: Other
+QS117EW0001,Count,Person,All categories: Number of adults in household
+QS117EW0002,Count,Person,1 adult in household
+QS117EW0003,Count,Person,0 or multiple adults in household
+QS118EW0001,Count,Family,All categories: Dependent children in family
+QS118EW0002,Count,Family,No dependent children in family
+QS118EW0003,Count,Family,One dependent child in family aged 0 to 4
+QS118EW0004,Count,Family,One dependent child in family aged 5 to 11
+QS118EW0005,Count,Family,One dependent child in family aged 12 to 18
+QS118EW0006,Count,Family,Two dependent children in family; youngest aged 0 to 4
+QS118EW0007,Count,Family,Two dependent children in family; youngest aged 5 to 11
+QS118EW0008,Count,Family,Two dependent children in family; youngest aged 12 to 18
+QS118EW0009,Count,Family,Three or more dependent children in family; youngest aged 0 to 4
+QS118EW0010,Count,Family,Three or more dependent children in family; youngest aged 5 to 11
+QS118EW0011,Count,Family,Three or more dependent children in family; youngest aged 12 to 18
+QS118EW0012,Count,Person,Total dependent children
+QS119EW0001,Count,Household,All categories: Classification of household deprivation
+QS119EW0002,Count,Household,Household is not deprived in any dimension
+QS119EW0003,Count,Household,Household is deprived in 1 dimension
+QS119EW0004,Count,Household,Household is deprived in 2 dimensions
+QS119EW0005,Count,Household,Household is deprived in 3 dimensions
+QS119EW0006,Count,Household,Household is deprived in 4 dimensions
+QS201EW0001,Count,Person,All categories: Ethnic group
+QS201EW0002,Count,Person,White: English/Welsh/Scottish/Northern Irish/British
+QS201EW0003,Count,Person,White: Irish
+QS201EW0004,Count,Person,White: Gypsy or Irish Traveller
+QS201EW0005,Count,Person,White: Other White
+QS201EW0006,Count,Person,Mixed/multiple ethnic group: White and Black Caribbean
+QS201EW0007,Count,Person,Mixed/multiple ethnic group: White and Black African
+QS201EW0008,Count,Person,Mixed/multiple ethnic group: White and Asian
+QS201EW0009,Count,Person,Mixed/multiple ethnic group: Other Mixed
+QS201EW0010,Count,Person,Asian/Asian British: Indian
+QS201EW0011,Count,Person,Asian/Asian British: Pakistani
+QS201EW0012,Count,Person,Asian/Asian British: Bangladeshi
+QS201EW0013,Count,Person,Asian/Asian British: Chinese
+QS201EW0014,Count,Person,Asian/Asian British: Other Asian
+QS201EW0015,Count,Person,Black/African/Caribbean/Black British: African
+QS201EW0016,Count,Person,Black/African/Caribbean/Black British: Caribbean
+QS201EW0017,Count,Person,Black/African/Caribbean/Black British: Other Black
+QS201EW0018,Count,Person,Other ethnic group: Arab
+QS201EW0019,Count,Person,Other ethnic group: Any other ethnic group
+QS202EW0002,Count,Household,One person household
+QS202EW0003,Count,Household,All household members have the same ethnic group
+QS202EW0004,Count,Household,Different ethnic groups between the generations only
+QS202EW0005,Count,Household,Different ethnic groups within partnerships (whether or not different ethnic groups between generations)
+QS202EW0006,Count,Household,Any other combination of multiple ethnic groups
+QS203EW0001,Count,Person,All categories: Country of birth
+QS203EW0002,Count,Person,Europe: Total
+QS203EW0003,Count,Person,Europe: United Kingdom: Total
+QS203EW0004,Count,Person,Europe: United Kingdom: England
+QS203EW0005,Count,Person,Europe: United Kingdom: Northern Ireland
+QS203EW0006,Count,Person,Europe: United Kingdom: Scotland
+QS203EW0007,Count,Person,Europe: United Kingdom: Wales
+QS203EW0008,Count,Person,Europe: Great Britain not otherwise specified
+QS203EW0009,Count,Person,Europe: United Kingdom not otherwise specified
+QS203EW0010,Count,Person,Europe: Guernsey
+QS203EW0011,Count,Person,Europe: Jersey
+QS203EW0012,Count,Person,Europe: Channel Islands not otherwise specified
+QS203EW0013,Count,Person,Europe: Isle of Man
+QS203EW0014,Count,Person,Europe: Ireland
+QS203EW0015,Count,Person,Europe: Other Europe: Total
+QS203EW0016,Count,Person,Europe: Other Europe: EU Countries: Total
+QS203EW0017,Count,Person,Europe: Other Europe: EU countries: Member countries in March 2001: Total
+QS203EW0018,Count,Person,Europe: Other Europe: EU countries: Member countries in March 2001: France
+QS203EW0019,Count,Person,Europe: Other Europe: EU countries: Member countries in March 2001: Germany
+QS203EW0020,Count,Person,Europe: Other Europe: EU countries: Member countries in March 2001: Italy
+QS203EW0021,Count,Person,Europe: Other Europe: EU countries: Member countries in March 2001: Portugal
+QS203EW0022,Count,Person,Europe: Other Europe: EU countries: Member countries in March 2001: Spain (including Canary Islands)
+QS203EW0023,Count,Person,Europe: Other Europe: EU countries: Member countries in March 2001: Other member countries in March 2001
+QS203EW0024,Count,Person,Europe: Other Europe: EU countries: Accession countries April 2001 to March 2011: Total
+QS203EW0025,Count,Person,Europe: Other Europe: EU countries: Accession countries April 2001 to March 2011: Lithuania
+QS203EW0026,Count,Person,Europe: Other Europe: EU countries: Accession countries April 2001 to March 2011: Poland
+QS203EW0027,Count,Person,Europe: Other Europe: EU countries: Accession countries April 2001 to March 2011: Romania
+QS203EW0028,Count,Person,Europe: Other Europe: EU countries: Accession countries April 2001 to March 2011: Other EU accession countries
+QS203EW0029,Count,Person,Europe: Other Europe: Rest of Europe: Total
+QS203EW0030,Count,Person,Europe: Other Europe: Rest of Europe: Turkey
+QS203EW0031,Count,Person,Europe: Other Europe: Rest of Europe: Other Europe
+QS203EW0032,Count,Person,Africa: Total
+QS203EW0033,Count,Person,Africa: North Africa
+QS203EW0034,Count,Person,Africa: Central and Western Africa: Total
+QS203EW0035,Count,Person,Africa: Central and Western Africa: Ghana
+QS203EW0036,Count,Person,Africa: Central and Western Africa: Nigeria
+QS203EW0037,Count,Person,Africa: Central and Western Africa: Other Central and Western Africa
+QS203EW0038,Count,Person,Africa: South and Eastern Africa: Total
+QS203EW0039,Count,Person,Africa: South and Eastern Africa: Kenya
+QS203EW0040,Count,Person,Africa: South and Eastern Africa: Somalia
+QS203EW0041,Count,Person,Africa: South and Eastern Africa: South Africa
+QS203EW0042,Count,Person,Africa: South and Eastern Africa: Zimbabwe
+QS203EW0043,Count,Person,Africa: South and Eastern Africa: Other South and Eastern Africa
+QS203EW0044,Count,Person,Africa: Africa not otherwise specified
+QS203EW0045,Count,Person,Middle East and Asia: Total
+QS203EW0046,Count,Person,Middle East and Asia: Middle East: Total
+QS203EW0047,Count,Person,Middle East and Asia: Middle East: Iran
+QS203EW0048,Count,Person,Middle East and Asia: Middle East: Other Middle East
+QS203EW0049,Count,Person,Middle East and Asia: Eastern Asia: Total
+QS203EW0050,Count,Person,Middle East and Asia: Eastern Asia: China
+QS203EW0051,Count,Person,Middle East and Asia: Eastern Asia: Hong Kong (Special Administrative Region of China)
+QS203EW0052,Count,Person,Middle East and Asia: Eastern Asia: Other Eastern Asia
+QS203EW0053,Count,Person,Middle East and Asia: Southern Asia: Total
+QS203EW0054,Count,Person,Middle East and Asia: Southern Asia: Bangladesh
+QS203EW0055,Count,Person,Middle East and Asia: Southern Asia: India
+QS203EW0056,Count,Person,Middle East and Asia: Southern Asia: Pakistan
+QS203EW0057,Count,Person,Middle East and Asia: Southern Asia: Sri Lanka
+QS203EW0058,Count,Person,Middle East and Asia: Southern Asia: Other Southern Asia
+QS203EW0059,Count,Person,Middle East and Asia: South-East Asia: Total
+QS203EW0060,Count,Person,Middle East and Asia: South-East Asia: Philippines
+QS203EW0061,Count,Person,Middle East and Asia: South-East Asia: Other South-East Asia
+QS203EW0062,Count,Person,Middle East and Asia: Central Asia
+QS203EW0063,Count,Person,The Americas and the Caribbean: Total
+QS203EW0064,Count,Person,The Americas and the Caribbean: North America: Total
+QS203EW0065,Count,Person,The Americas and the Caribbean: North America: United States
+QS203EW0066,Count,Person,The Americas and the Caribbean: North America: Other North America
+QS203EW0067,Count,Person,The Americas and the Caribbean: Central America
+QS203EW0068,Count,Person,The Americas and the Caribbean: South America
+QS203EW0069,Count,Person,The Americas and the Caribbean: The Caribbean: Total
+QS203EW0070,Count,Person,The Americas and the Caribbean: The Caribbean: Jamaica
+QS203EW0071,Count,Person,The Americas and the Caribbean: The Caribbean: Other Caribbean
+QS203EW0072,Count,Person,Antarctica and Oceania: Total
+QS203EW0073,Count,Person,Antarctica and Oceania: Antarctica
+QS203EW0074,Count,Person,Antarctica and Oceania: Australasia: Total
+QS203EW0075,Count,Person,Antarctica and Oceania: Australasia: Australia
+QS203EW0076,Count,Person,Antarctica and Oceania: Australasia: Other Australasia
+QS203EW0077,Count,Person,Antarctica and Oceania: Other Oceania
+QS203EW0078,Count,Person,Other
+QS204EW0001,Count,Person,All usual residents aged 3 and over
+QS204EW0002,Count,Person,English (English or Welsh if in Wales)
+QS204EW0003,Count,Person,Welsh/Cymraeg (in England only)
+QS204EW0004,Count,Person,Other UK language: Total
+QS204EW0005,Count,Person,Other UK language: Gaelic (Irish) 
+QS204EW0006,Count,Person,Other UK language: Gaelic (Scottish)
+QS204EW0007,Count,Person,Other UK language: Manx Gaelic
+QS204EW0008,Count,Person,Other UK language: Gaelic (Not otherwise specified)  
+QS204EW0009,Count,Person,Other UK language: Cornish
+QS204EW0010,Count,Person,Other UK language: Scots
+QS204EW0011,Count,Person,Other UK language: Gypsy/Traveller languages
+QS204EW0012,Count,Person,French
+QS204EW0013,Count,Person,Portuguese
+QS204EW0014,Count,Person,Spanish
+QS204EW0015,Count,Person,Other European Language (EU): Total
+QS204EW0016,Count,Person,Other European Language (EU): Italian
+QS204EW0017,Count,Person,Other European Language (EU): German
+QS204EW0018,Count,Person,Other European Language (EU): Polish
+QS204EW0019,Count,Person,Other European Language (EU): Slovak
+QS204EW0020,Count,Person,Other European Language (EU): Czech
+QS204EW0021,Count,Person,Other European Language (EU): Romanian
+QS204EW0022,Count,Person,Other European Language (EU): Lithuanian
+QS204EW0023,Count,Person,Other European Language (EU): Latvian
+QS204EW0024,Count,Person,Other European Language (EU): Hungarian
+QS204EW0025,Count,Person,Other European Language (EU): Bulgarian
+QS204EW0026,Count,Person,Other European Language (EU): Greek
+QS204EW0027,Count,Person,Other European Language (EU): Dutch
+QS204EW0028,Count,Person,Other European Language (EU): Swedish
+QS204EW0029,Count,Person,Other European Language (EU): Danish
+QS204EW0030,Count,Person,Other European Language (EU): Finnish
+QS204EW0031,Count,Person,Other European Language (EU): Estonian
+QS204EW0032,Count,Person,Other European Language (EU): Slovenian
+QS204EW0033,Count,Person,Other European Language (EU): Maltese
+QS204EW0034,Count,Person,Other European Language (EU): Any other European Language (EU)
+QS204EW0035,Count,Person,Other European Language (non EU): Total
+QS204EW0036,Count,Person,Other European Language (non EU): Albanian
+QS204EW0037,Count,Person,Other European Language (non EU): Serbian/Croatian/Bosnian
+QS204EW0038,Count,Person,Other European Language (non EU): Ukrainian
+QS204EW0039,Count,Person,Other European Language (non EU): Any other Eastern European Language (non EU)
+QS204EW0040,Count,Person,Other European Language (non EU): Northern European Language (non EU)
+QS204EW0041,Count,Person,Other European Language (non-national): Total
+QS204EW0042,Count,Person,Other European Language (non-national): Romani language (any)
+QS204EW0043,Count,Person,Other European Language (non-national): Yiddish
+QS204EW0044,Count,Person,Russian
+QS204EW0045,Count,Person,Turkish
+QS204EW0046,Count,Person,Arabic
+QS204EW0047,Count,Person,West/Central Asian Language: Total
+QS204EW0048,Count,Person,West/Central Asian Language: Hebrew
+QS204EW0049,Count,Person,West/Central Asian Language: Kurdish
+QS204EW0050,Count,Person,West/Central Asian Language: Persian/Farsi
+QS204EW0051,Count,Person,West/Central Asian Language: Pashto
+QS204EW0052,Count,Person,West/Central Asian Language: West/Central Asian Language (all other)
+QS204EW0053,Count,Person,South Asian Language: Total
+QS204EW0054,Count,Person,South Asian Language: Urdu
+QS204EW0055,Count,Person,South Asian Language: Hindi
+QS204EW0056,Count,Person,South Asian Language: Panjabi
+QS204EW0057,Count,Person,South Asian Language: Pakistani Pahari (with Mirpuri and Potwari)
+QS204EW0058,Count,Person,South Asian Language: Bengali (with Sylheti and Chatgaya)
+QS204EW0059,Count,Person,South Asian Language: Gujarati
+QS204EW0060,Count,Person,South Asian Language: Marathi
+QS204EW0061,Count,Person,South Asian Language: Telugu
+QS204EW0062,Count,Person,South Asian Language: Tamil
+QS204EW0063,Count,Person,South Asian Language: Malayalam
+QS204EW0064,Count,Person,South Asian Language: Sinhala
+QS204EW0065,Count,Person,South Asian Language: Nepalese
+QS204EW0066,Count,Person,South Asian Language: South Asian Language (all other)
+QS204EW0067,Count,Person,East Asian Language: Total
+QS204EW0068,Count,Person,East Asian Language: Mandarin Chinese
+QS204EW0069,Count,Person,East Asian Language: Cantonese Chinese
+QS204EW0070,Count,Person,East Asian Language: All other Chinese
+QS204EW0071,Count,Person,East Asian Language: Japanese
+QS204EW0072,Count,Person,East Asian Language: Korean
+QS204EW0073,Count,Person,East Asian Language: Vietnamese
+QS204EW0074,Count,Person,East Asian Language: Thai
+QS204EW0075,Count,Person,East Asian Language: Malay
+QS204EW0076,Count,Person,East Asian Language: Tagalog/Filipino
+QS204EW0077,Count,Person,East Asian Language: East Asian Language (all other)
+QS204EW0078,Count,Person,Oceanic/Australian language (any)
+QS204EW0079,Count,Person,North/South American language (any)
+QS204EW0080,Count,Person,Caribbean Creole: Total
+QS204EW0081,Count,Person,Caribbean Creole: Caribbean Creole (English-based)
+QS204EW0082,Count,Person,Caribbean Creole: Caribbean Creole (all other)
+QS204EW0083,Count,Person,African Language: Total
+QS204EW0084,Count,Person,African Language: Amharic
+QS204EW0085,Count,Person,African Language: Tigrinya
+QS204EW0086,Count,Person,African Language: Somali
+QS204EW0087,Count,Person,African Language: Krio
+QS204EW0088,Count,Person,African Language: Akan
+QS204EW0089,Count,Person,African Language: Yoruba
+QS204EW0090,Count,Person,African Language: Igbo
+QS204EW0091,Count,Person,African Language: Swahili/Kiswahili
+QS204EW0092,Count,Person,African Language: Luganda
+QS204EW0093,Count,Person,African Language: Lingala
+QS204EW0094,Count,Person,African Language: Shona
+QS204EW0095,Count,Person,African Language: Afrikaans
+QS204EW0096,Count,Person,African Language: Any other Nigerian language
+QS204EW0097,Count,Person,African Language: West African language (all other)
+QS204EW0098,Count,Person,African Language: African language (all other)
+QS204EW0099,Count,Person,Other Languages: Total
+QS204EW0100,Count,Person,Other Languages: All other languages
+QS204EW0101,Count,Person,Sign Language: Total
+QS204EW0102,Count,Person,Sign Language: British sign language
+QS204EW0103,Count,Person,Sign Language: Sign Language (all other)
+QS204EW0104,Count,Person,Sign Language: Any Sign Communication System
+QS205EW0001,Count,Person,All categories: Proficiency in English
+QS205EW0002,Count,Person,Main language is English (English or Welsh in Wales)
+QS205EW0003,Count,Person,Main language is not English (English or Welsh in Wales): Can speak English very well
+QS205EW0004,Count,Person,Main language is not English (English or Welsh in Wales): Can speak English well
+QS205EW0005,Count,Person,Main language is not English (English or Welsh in Wales): Cannot speak English well
+QS205EW0006,Count,Person,Main language is not English (English or Welsh in Wales): Cannot speak English
+QS206WA0001,Count,Person,All usual residents aged 3 and over
+QS206WA0002,Count,Person,Can understand spoken Welsh
+QS206WA0003,Count,Person,Can speak Welsh
+QS206WA0004,Count,Person,Can read Welsh
+QS206WA0005,Count,Person,Can write Welsh
+QS206WA0006,Count,Person,"Can speak, read or write Welsh"
+QS207WA0001,Count,Person,All categories: Welsh language skills
+QS207WA0002,Count,Person,No skills in Welsh
+QS207WA0003,Count,Person,Can understand spoken Welsh only
+QS207WA0004,Count,Person,Can speak Welsh: Total
+QS207WA0005,Count,Person,Can speak but cannot read or write Welsh
+QS207WA0006,Count,Person,Can speak and read but cannot write Welsh
+QS207WA0007,Count,Person,"Can speak, read and write Welsh"
+QS207WA0008,Count,Person,Can speak and other combinations of skills in Welsh
+QS207WA0009,Count,Person,Can read but cannot speak or write Welsh
+QS207WA0010,Count,Person,Can read and write but cannot speak Welsh
+QS207WA0011,Count,Person,Can write but cannot speak or read Welsh
+QS208EW0001,Count,Person,All categories: Religion
+QS208EW0002,Count,Person,Christian
+QS208EW0003,Count,Person,Buddhist
+QS208EW0004,Count,Person,Hindu
+QS208EW0005,Count,Person,Jewish
+QS208EW0006,Count,Person,Muslim
+QS208EW0007,Count,Person,Sikh
+QS208EW0008,Count,Person,Other religion
+QS208EW0009,Count,Person,No religion
+QS208EW0010,Count,Person,Religion not stated
+QS210EW0001,Count,Person,All categories: Religion
+QS210EW0002,Count,Person,Christian
+QS210EW0003,Count,Person,Buddhist
+QS210EW0004,Count,Person,Hindu
+QS210EW0005,Count,Person,Jewish
+QS210EW0006,Count,Person,Muslim (Islam)
+QS210EW0007,Count,Person,Sikh
+QS210EW0008,Count,Person,Other religion: Total
+QS210EW0009,Count,Person,Other religion: Animism
+QS210EW0010,Count,Person,Other religion: Baha'i
+QS210EW0011,Count,Person,Other religion: Believe in God
+QS210EW0012,Count,Person,Other religion: Brahma Kumari
+QS210EW0013,Count,Person,Other religion: Chinese Religion
+QS210EW0014,Count,Person,Other religion: Church of All Religion
+QS210EW0015,Count,Person,Other religion: Confucianist
+QS210EW0016,Count,Person,Other religion: Deist
+QS210EW0017,Count,Person,Other religion: Druid
+QS210EW0018,Count,Person,Other religion: Druze
+QS210EW0019,Count,Person,Other religion: Eckankar
+QS210EW0020,Count,Person,Other religion: Heathen
+QS210EW0021,Count,Person,Other religion: Jain
+QS210EW0022,Count,Person,Other religion: Mixed Religion
+QS210EW0023,Count,Person,Other religion: Mysticism
+QS210EW0024,Count,Person,Other religion: Native American Church
+QS210EW0025,Count,Person,Other religion: New Age
+QS210EW0026,Count,Person,Other religion: Occult
+QS210EW0027,Count,Person,Other religion: Own Belief System
+QS210EW0028,Count,Person,Other religion: Pagan
+QS210EW0029,Count,Person,Other religion: Pantheism
+QS210EW0030,Count,Person,Other religion: Rastafarian
+QS210EW0031,Count,Person,Other religion: Ravidassia
+QS210EW0032,Count,Person,Other religion: Reconstructionist
+QS210EW0033,Count,Person,Other religion: Satanism
+QS210EW0034,Count,Person,Other religion: Scientology
+QS210EW0035,Count,Person,Other religion: Shamanism
+QS210EW0036,Count,Person,Other religion: Shintoism
+QS210EW0037,Count,Person,Other religion: Spiritual
+QS210EW0038,Count,Person,Other religion: Spiritualist
+QS210EW0039,Count,Person,Other religion: Taoist
+QS210EW0040,Count,Person,Other religion: Theism
+QS210EW0041,Count,Person,Other religion: Thelemite
+QS210EW0042,Count,Person,Other religion: Traditional African Religion
+QS210EW0043,Count,Person,Other religion: Unification Church
+QS210EW0044,Count,Person,Other religion: Universalist
+QS210EW0045,Count,Person,Other religion: Vodun
+QS210EW0046,Count,Person,Other religion: Wicca
+QS210EW0047,Count,Person,Other religion: Witchcraft
+QS210EW0048,Count,Person,Other religion: Zoroastrian
+QS210EW0049,Count,Person,Other religion: Other religions
+QS210EW0050,Count,Person,No religion: Total
+QS210EW0051,Count,Person,No religion: No religion
+QS210EW0052,Count,Person,No religion: Agnostic
+QS210EW0053,Count,Person,No religion: Atheist
+QS210EW0054,Count,Person,No religion: Free Thinker
+QS210EW0055,Count,Person,No religion: Heavy Metal
+QS210EW0056,Count,Person,No religion: Humanist
+QS210EW0057,Count,Person,No religion: Jedi Knight
+QS210EW0058,Count,Person,No religion: Realist
+QS210EW0059,Count,Person,Religion not stated
+QS211EW0001,Count,Person,All categories: Ethnic group
+QS211EW0002,Count,Person,White: English/Welsh/Scottish/Northern Irish/British
+QS211EW0003,Count,Person,White: Irish
+QS211EW0004,Count,Person,White: Gypsy or Irish Traveller
+QS211EW0005,Count,Person,White: Afghan
+QS211EW0006,Count,Person,White: Albanian
+QS211EW0007,Count,Person,White: Anglo Indian
+QS211EW0008,Count,Person,White: Argentinian
+QS211EW0009,Count,Person,White: Australian/New Zealander
+QS211EW0010,Count,Person,White: Baltic States
+QS211EW0011,Count,Person,White: Bosnian
+QS211EW0012,Count,Person,White: Brazilian
+QS211EW0013,Count,Person,White: British Asian
+QS211EW0014,Count,Person,White: Burmese
+QS211EW0015,Count,Person,White: Chilean
+QS211EW0016,Count,Person,White: Colombian
+QS211EW0017,Count,Person,White: Commonwealth of (Russian) Independent States
+QS211EW0018,Count,Person,White: Croatian
+QS211EW0019,Count,Person,White: Cuban
+QS211EW0020,Count,Person,White: Cypriot (part not stated)
+QS211EW0021,Count,Person,White: Ecuadorian
+QS211EW0022,Count,Person,White: European Mixed
+QS211EW0023,Count,Person,White: Filipino
+QS211EW0024,Count,Person,White: Greek
+QS211EW0025,Count,Person,White: Greek Cypriot
+QS211EW0026,Count,Person,White: Iranian
+QS211EW0027,Count,Person,White: Israeli
+QS211EW0028,Count,Person,White: Italian
+QS211EW0029,Count,Person,White: Japanese
+QS211EW0030,Count,Person,White: Kashmiri
+QS211EW0031,Count,Person,White: Kosovan
+QS211EW0032,Count,Person,White: Kurdish
+QS211EW0033,Count,Person,White: Latin/South/Central American
+QS211EW0034,Count,Person,White: Malaysian
+QS211EW0035,Count,Person,White: Mexican
+QS211EW0036,Count,Person,White: Moroccan
+QS211EW0037,Count,Person,White: Multi-ethnic islands
+QS211EW0038,Count,Person,White: Nepalese (includes Gurkha)
+QS211EW0039,Count,Person,White: Nigerian
+QS211EW0040,Count,Person,White: North African
+QS211EW0041,Count,Person,White: North American
+QS211EW0042,Count,Person,White: Other Eastern European
+QS211EW0043,Count,Person,White: Other Middle East
+QS211EW0044,Count,Person,White: Other Western European
+QS211EW0045,Count,Person,White: Peruvian
+QS211EW0046,Count,Person,White: Polish
+QS211EW0047,Count,Person,White: Polynesia/Micronesia/Melanesia
+QS211EW0048,Count,Person,White: Serbian
+QS211EW0049,Count,Person,White: Somali
+QS211EW0050,Count,Person,White: Somalilander
+QS211EW0051,Count,Person,White: Sri Lankan
+QS211EW0052,Count,Person,White: Tamil
+QS211EW0053,Count,Person,White: Thai
+QS211EW0054,Count,Person,White: Turkish
+QS211EW0055,Count,Person,White: Turkish Cypriot
+QS211EW0056,Count,Person,White: Venezuelan
+QS211EW0057,Count,Person,White: Vietnamese
+QS211EW0058,Count,Person,White: White African
+QS211EW0059,Count,Person,White: White Caribbean
+QS211EW0060,Count,Person,White: Any other ethnic group
+QS211EW0061,Count,Person,Mixed/multiple ethnic group: White and Black Caribbean
+QS211EW0062,Count,Person,Mixed/multiple ethnic group: White and Black African
+QS211EW0063,Count,Person,Mixed/multiple ethnic group: White and Asian
+QS211EW0064,Count,Person,Mixed/multiple ethnic group: Afghan
+QS211EW0065,Count,Person,Mixed/multiple ethnic group: African/Arab
+QS211EW0066,Count,Person,Mixed/multiple ethnic group: Albanian
+QS211EW0067,Count,Person,Mixed/multiple ethnic group: Anglo Indian
+QS211EW0068,Count,Person,Mixed/multiple ethnic group: Australian/New Zealander
+QS211EW0069,Count,Person,Mixed/multiple ethnic group: Baltic States
+QS211EW0070,Count,Person,Mixed/multiple ethnic group: Black and Asian
+QS211EW0071,Count,Person,Mixed/multiple ethnic group: Black and Chinese
+QS211EW0072,Count,Person,Mixed/multiple ethnic group: Black and White
+QS211EW0073,Count,Person,Mixed/multiple ethnic group: Black British
+QS211EW0074,Count,Person,Mixed/multiple ethnic group: Black European
+QS211EW0075,Count,Person,Mixed/multiple ethnic group: Black/African American
+QS211EW0076,Count,Person,Mixed/multiple ethnic group: Brazilian
+QS211EW0077,Count,Person,Mixed/multiple ethnic group: British Asian
+QS211EW0078,Count,Person,Mixed/multiple ethnic group: Burmese
+QS211EW0079,Count,Person,Mixed/multiple ethnic group: Caribbean Asian
+QS211EW0080,Count,Person,Mixed/multiple ethnic group: Chilean
+QS211EW0081,Count,Person,Mixed/multiple ethnic group: Chinese and White
+QS211EW0082,Count,Person,Mixed/multiple ethnic group: Colombian
+QS211EW0083,Count,Person,Mixed/multiple ethnic group: Commonwealth of (Russian) Independent States
+QS211EW0084,Count,Person,Mixed/multiple ethnic group: Cuban
+QS211EW0085,Count,Person,Mixed/multiple ethnic group: Cypriot (part not stated)
+QS211EW0086,Count,Person,Mixed/multiple ethnic group: East African Asian
+QS211EW0087,Count,Person,Mixed/multiple ethnic group: Ecuadorian
+QS211EW0088,Count,Person,Mixed/multiple ethnic group: European Mixed
+QS211EW0089,Count,Person,Mixed/multiple ethnic group: Filipino
+QS211EW0090,Count,Person,Mixed/multiple ethnic group: Greek
+QS211EW0091,Count,Person,Mixed/multiple ethnic group: Greek Cypriot
+QS211EW0092,Count,Person,Mixed/multiple ethnic group: Indonesian
+QS211EW0093,Count,Person,Mixed/multiple ethnic group: Iranian
+QS211EW0094,Count,Person,Mixed/multiple ethnic group: Israeli
+QS211EW0095,Count,Person,Mixed/multiple ethnic group: Italian
+QS211EW0096,Count,Person,Mixed/multiple ethnic group: Japanese
+QS211EW0097,Count,Person,Mixed/multiple ethnic group: Kashmiri
+QS211EW0098,Count,Person,Mixed/multiple ethnic group: Korean
+QS211EW0099,Count,Person,Mixed/multiple ethnic group: Kosovan
+QS211EW0100,Count,Person,Mixed/multiple ethnic group: Kurdish
+QS211EW0101,Count,Person,Mixed/multiple ethnic group: Latin/South/Central American
+QS211EW0102,Count,Person,Mixed/multiple ethnic group: Malaysian
+QS211EW0103,Count,Person,Mixed/multiple ethnic group: Mexican
+QS211EW0104,Count,Person,Mixed/multiple ethnic group: Moroccan
+QS211EW0105,Count,Person,Mixed/multiple ethnic group: Multi-ethnic islands
+QS211EW0106,Count,Person,Mixed/multiple ethnic group: Nepalese (includes Gurkha)
+QS211EW0107,Count,Person,Mixed/multiple ethnic group: Nigerian
+QS211EW0108,Count,Person,Mixed/multiple ethnic group: North African
+QS211EW0109,Count,Person,Mixed/multiple ethnic group: North American
+QS211EW0110,Count,Person,Mixed/multiple ethnic group: Other Eastern European
+QS211EW0111,Count,Person,Mixed/multiple ethnic group: Other Middle East
+QS211EW0112,Count,Person,Mixed/multiple ethnic group: Other Western European
+QS211EW0113,Count,Person,Mixed/multiple ethnic group: Peruvian
+QS211EW0114,Count,Person,Mixed/multiple ethnic group: Polish
+QS211EW0115,Count,Person,Mixed/multiple ethnic group: Polynesia/Micronesia/Melanesia
+QS211EW0116,Count,Person,Mixed/multiple ethnic group: Somali
+QS211EW0117,Count,Person,Mixed/multiple ethnic group: South Asian and Chinese
+QS211EW0118,Count,Person,Mixed/multiple ethnic group: Sri Lankan
+QS211EW0119,Count,Person,Mixed/multiple ethnic group: Tamil
+QS211EW0120,Count,Person,Mixed/multiple ethnic group: Thai
+QS211EW0121,Count,Person,Mixed/multiple ethnic group: Turkish
+QS211EW0122,Count,Person,Mixed/multiple ethnic group: Turkish Cypriot
+QS211EW0123,Count,Person,Mixed/multiple ethnic group: Venezuelan
+QS211EW0124,Count,Person,Mixed/multiple ethnic group: Vietnamese
+QS211EW0125,Count,Person,Mixed/multiple ethnic group: White African
+QS211EW0126,Count,Person,Mixed/multiple ethnic group: White and Arab
+QS211EW0127,Count,Person,Mixed/multiple ethnic group: White and East Asian
+QS211EW0128,Count,Person,Mixed/multiple ethnic group: White and North African or Middle Eastern
+QS211EW0129,Count,Person,Mixed/multiple ethnic group: White and South Asian
+QS211EW0130,Count,Person,Mixed/multiple ethnic group: White Caribbean
+QS211EW0131,Count,Person,Mixed/multiple ethnic group: Any other ethnic group
+QS211EW0132,Count,Person,Asian/Asian British: Indian or British Indian
+QS211EW0133,Count,Person,Asian/Asian British: Pakistani or British Pakistani
+QS211EW0134,Count,Person,"Asian/Asian British: Bangladeshi, British Bangladeshi"
+QS211EW0135,Count,Person,Asian/Asian British: Chinese
+QS211EW0136,Count,Person,Asian/Asian British: Afghan
+QS211EW0137,Count,Person,Asian/Asian British: Anglo Indian
+QS211EW0138,Count,Person,Asian/Asian British: British Asian
+QS211EW0139,Count,Person,Asian/Asian British: Burmese
+QS211EW0140,Count,Person,Asian/Asian British: Cambodia
+QS211EW0141,Count,Person,Asian/Asian British: Caribbean Asian
+QS211EW0142,Count,Person,Asian/Asian British: Commonwealth of (Russian) Independent States
+QS211EW0143,Count,Person,Asian/Asian British: East African Asian
+QS211EW0144,Count,Person,Asian/Asian British: European Mixed
+QS211EW0145,Count,Person,Asian/Asian British: Filipino
+QS211EW0146,Count,Person,Asian/Asian British: Indonesian
+QS211EW0147,Count,Person,Asian/Asian British: Iranian
+QS211EW0148,Count,Person,Asian/Asian British: Italian
+QS211EW0149,Count,Person,Asian/Asian British: Japanese
+QS211EW0150,Count,Person,Asian/Asian British: Kashmiri
+QS211EW0151,Count,Person,Asian/Asian British: Korean
+QS211EW0152,Count,Person,Asian/Asian British: Kurdish
+QS211EW0153,Count,Person,Asian/Asian British: Latin/South/Central American
+QS211EW0154,Count,Person,Asian/Asian British: Malaysian
+QS211EW0155,Count,Person,Asian/Asian British: Multi-ethnic islands
+QS211EW0156,Count,Person,Asian/Asian British: Nepalese (includes Gurkha)
+QS211EW0157,Count,Person,Asian/Asian British: North American
+QS211EW0158,Count,Person,Asian/Asian British: Other Eastern European
+QS211EW0159,Count,Person,Asian/Asian British: Other Middle East
+QS211EW0160,Count,Person,Asian/Asian British: Other Western European
+QS211EW0161,Count,Person,Asian/Asian British: Polynesia/Micronesia/Melanesia
+QS211EW0162,Count,Person,Asian/Asian British: Punjabi
+QS211EW0163,Count,Person,Asian/Asian British: Sinhalese
+QS211EW0164,Count,Person,Asian/Asian British: Somali
+QS211EW0165,Count,Person,Asian/Asian British: Sri Lankan
+QS211EW0166,Count,Person,Asian/Asian British: Taiwanese
+QS211EW0167,Count,Person,Asian/Asian British: Tamil
+QS211EW0168,Count,Person,Asian/Asian British: Thai
+QS211EW0169,Count,Person,Asian/Asian British: Turkish
+QS211EW0170,Count,Person,Asian/Asian British: Turkish Cypriot
+QS211EW0171,Count,Person,Asian/Asian British: Vietnamese
+QS211EW0172,Count,Person,Asian/Asian British: Any other ethnic group
+QS211EW0173,Count,Person,Black/African/Caribbean/Black British: African
+QS211EW0174,Count,Person,Black/African/Caribbean/Black British: Caribbean
+QS211EW0175,Count,Person,Black/African/Caribbean/Black British: Afghan
+QS211EW0176,Count,Person,Black/African/Caribbean/Black British: African/Arab
+QS211EW0177,Count,Person,Black/African/Caribbean/Black British: Black British
+QS211EW0178,Count,Person,Black/African/Caribbean/Black British: Black European
+QS211EW0179,Count,Person,Black/African/Caribbean/Black British: Black/African American
+QS211EW0180,Count,Person,Black/African/Caribbean/Black British: Brazilian
+QS211EW0181,Count,Person,Black/African/Caribbean/Black British: Caribbean Asian
+QS211EW0182,Count,Person,Black/African/Caribbean/Black British: Colombian
+QS211EW0183,Count,Person,Black/African/Caribbean/Black British: Cuban
+QS211EW0184,Count,Person,Black/African/Caribbean/Black British: European Mixed
+QS211EW0185,Count,Person,Black/African/Caribbean/Black British: Filipino
+QS211EW0186,Count,Person,Black/African/Caribbean/Black British: Italian
+QS211EW0187,Count,Person,Black/African/Caribbean/Black British: Latin/South/Central American
+QS211EW0188,Count,Person,Black/African/Caribbean/Black British: Moroccan
+QS211EW0189,Count,Person,Black/African/Caribbean/Black British: Multi-ethnic islands
+QS211EW0190,Count,Person,Black/African/Caribbean/Black British: Nigerian
+QS211EW0191,Count,Person,Black/African/Caribbean/Black British: North African
+QS211EW0192,Count,Person,Black/African/Caribbean/Black British: North American
+QS211EW0193,Count,Person,Black/African/Caribbean/Black British: Other Western European
+QS211EW0194,Count,Person,Black/African/Caribbean/Black British: Polynesia/Micronesia/Melanesia
+QS211EW0195,Count,Person,Black/African/Caribbean/Black British: Somali
+QS211EW0196,Count,Person,Black/African/Caribbean/Black British: Somalilander
+QS211EW0197,Count,Person,Black/African/Caribbean/Black British: Sri Lankan
+QS211EW0198,Count,Person,Black/African/Caribbean/Black British: Any other ethnic group
+QS211EW0199,Count,Person,Other ethnic group: Arab
+QS211EW0200,Count,Person,Other ethnic group: Afghan
+QS211EW0201,Count,Person,Other ethnic group: African/Arab
+QS211EW0202,Count,Person,Other ethnic group: Albanian
+QS211EW0203,Count,Person,Other ethnic group: Anglo Indian
+QS211EW0204,Count,Person,Other ethnic group: Australian/New Zealander
+QS211EW0205,Count,Person,Other ethnic group: Baltic States
+QS211EW0206,Count,Person,Other ethnic group: Bosnian
+QS211EW0207,Count,Person,Other ethnic group: Brazilian
+QS211EW0208,Count,Person,Other ethnic group: Burmese
+QS211EW0209,Count,Person,Other ethnic group: Caribbean Asian
+QS211EW0210,Count,Person,Other ethnic group: Chilean
+QS211EW0211,Count,Person,Other ethnic group: Colombian
+QS211EW0212,Count,Person,Other ethnic group: Commonwealth of (Russian) Independent States
+QS211EW0213,Count,Person,Other ethnic group: Cypriot (part not stated)
+QS211EW0214,Count,Person,Other ethnic group: Ecuadorian
+QS211EW0215,Count,Person,Other ethnic group: European Mixed
+QS211EW0216,Count,Person,Other ethnic group: Filipino
+QS211EW0217,Count,Person,Other ethnic group: Greek
+QS211EW0218,Count,Person,Other ethnic group: Greek Cypriot
+QS211EW0219,Count,Person,Other ethnic group: Indonesian
+QS211EW0220,Count,Person,Other ethnic group: Iranian
+QS211EW0221,Count,Person,Other ethnic group: Israeli
+QS211EW0222,Count,Person,Other ethnic group: Italian
+QS211EW0223,Count,Person,Other ethnic group: Japanese
+QS211EW0224,Count,Person,Other ethnic group: Kashmiri
+QS211EW0225,Count,Person,Other ethnic group: Korean
+QS211EW0226,Count,Person,Other ethnic group: Kosovan
+QS211EW0227,Count,Person,Other ethnic group: Kurdish
+QS211EW0228,Count,Person,Other ethnic group: Latin/South/Central American
+QS211EW0229,Count,Person,Other ethnic group: Malaysian
+QS211EW0230,Count,Person,Other ethnic group: Mexican
+QS211EW0231,Count,Person,Other ethnic group: Moroccan
+QS211EW0232,Count,Person,Other ethnic group: Multi-ethnic islands
+QS211EW0233,Count,Person,Other ethnic group: Nepalese (includes Gurkha)
+QS211EW0234,Count,Person,Other ethnic group: North African
+QS211EW0235,Count,Person,Other ethnic group: North American
+QS211EW0236,Count,Person,Other ethnic group: Other Eastern European
+QS211EW0237,Count,Person,Other ethnic group: Other Middle East
+QS211EW0238,Count,Person,Other ethnic group: Other Western European
+QS211EW0239,Count,Person,Other ethnic group: Peruvian
+QS211EW0240,Count,Person,Other ethnic group: Polish
+QS211EW0241,Count,Person,Other ethnic group: Polynesia/Micronesia/Melanesia
+QS211EW0242,Count,Person,Other ethnic group: Punjabi
+QS211EW0243,Count,Person,Other ethnic group: Somali
+QS211EW0244,Count,Person,Other ethnic group: Somalilander
+QS211EW0245,Count,Person,Other ethnic group: Sri Lankan
+QS211EW0246,Count,Person,Other ethnic group: Tamil
+QS211EW0247,Count,Person,Other ethnic group: Thai
+QS211EW0248,Count,Person,Other ethnic group: Turkish
+QS211EW0249,Count,Person,Other ethnic group: Turkish Cypriot
+QS211EW0250,Count,Person,Other ethnic group: Vietnamese
+QS211EW0251,Count,Person,Other ethnic group: Any other ethnic group
+QS301EW0001,Count,Person,All categories: Provision of unpaid care
+QS301EW0002,Count,Person,Provides no unpaid care
+QS301EW0003,Count,Person,Provides 1 to 19 hours unpaid care a week
+QS301EW0004,Count,Person,Provides 20 to 49 hours unpaid care a week
+QS301EW0005,Count,Person,Provides 50 or more hours unpaid care a week
+QS302EW0001,Count,Person,All categories: General health
+QS302EW0002,Count,Person,Very good health
+QS302EW0003,Count,Person,Good health
+QS302EW0004,Count,Person,Fair health
+QS302EW0005,Count,Person,Bad health
+QS302EW0006,Count,Person,Very bad health
+QS303EW0001,Count,Person,All categories: Long-term health problem or disability
+QS303EW0002,Count,Person,Day-to-day activities limited a lot
+QS303EW0003,Count,Person,Day-to-day activities limited a little
+QS303EW0004,Count,Person,Day-to-day activities not limited
+QS401EW0001,Count,Person,All categories: Accommodation type
+QS401EW0002,Count,Person,Unshared dwelling: Total
+QS401EW0003,Count,Person,Unshared dwelling: Whole house or bungalow: Total
+QS401EW0004,Count,Person,Unshared dwelling: Whole house or bungalow: Detached
+QS401EW0005,Count,Person,Unshared dwelling: Whole house or bungalow: Semi-detached
+QS401EW0006,Count,Person,Unshared dwelling: Whole house or bungalow: Terraced (including end-terrace)
+QS401EW0007,Count,Person,"Unshared dwelling: Flat, maisonette or apartment: Total"
+QS401EW0008,Count,Person,"Unshared dwelling: Flat, maisonette or apartment: Purpose-built block of flats or tenement"
+QS401EW0009,Count,Person,"Unshared dwelling: Flat, maisonette or apartment: Part of a converted or shared house (including bed-sits)"
+QS401EW0010,Count,Person,"Unshared dwelling: Flat, maisonette or apartment: In commercial building"
+QS401EW0011,Count,Person,Unshared dwelling: Caravan or other mobile or temporary structure
+QS401EW0012,Count,Person,Shared dwelling
+QS402EW0001,Count,Household,All categories: Accommodation type
+QS402EW0002,Count,Household,Unshared dwelling: Total
+QS402EW0003,Count,Household,Unshared dwelling: Whole house or bungalow: Total
+QS402EW0004,Count,Household,Unshared dwelling: Whole house or bungalow: Detached
+QS402EW0005,Count,Household,Unshared dwelling: Whole house or bungalow: Semi-detached
+QS402EW0006,Count,Household,Unshared dwelling: Whole house or bungalow: Terraced (including end-terrace)
+QS402EW0007,Count,Household,"Unshared dwelling: Flat, maisonette or apartment: Total"
+QS402EW0008,Count,Household,"Unshared dwelling: Flat, maisonette or apartment: Purpose-built block of flats or tenement"
+QS402EW0009,Count,Household,"Unshared dwelling: Flat, maisonette or apartment: Part of a converted or shared house (including bed-sits)"
+QS402EW0010,Count,Household,"Unshared dwelling: Flat, maisonette or apartment: In commercial building"
+QS402EW0011,Count,Household,Unshared dwelling: Caravan or other mobile or temporary structure
+QS402EW0012,Count,Household,Shared dwelling
+QS403EW0001,Count,Person,All categories: Tenure
+QS403EW0002,Count,Person,Owned: Total
+QS403EW0003,Count,Person,Owned: Owned outright
+QS403EW0004,Count,Person,Owned: Owned with a mortgage or loan
+QS403EW0005,Count,Person,Shared ownership (part owned and part rented)
+QS403EW0006,Count,Person,Social rented: Total
+QS403EW0007,Count,Person,Social rented: Rented from council (Local Authority)
+QS403EW0008,Count,Person,Social rented: Other social rented
+QS403EW0009,Count,Person,Private rented: Total
+QS403EW0010,Count,Person,Private rented: Private landlord or letting agency
+QS403EW0011,Count,Person,Private rented: Employer of a household member
+QS403EW0012,Count,Person,Private rented: Relative or friend of household member
+QS403EW0013,Count,Person,Private rented: Other
+QS403EW0014,Count,Person,Living rent free
+QS404EW0001,Count,Household,All categories: Tenure
+QS404EW0002,Count,Household,Owned
+QS404EW0003,Count,Household,Shared ownership (part owned and part rented)
+QS404EW0004,Count,Household,Rented from council (Local Authority)
+QS404EW0005,Count,Household,Other social rented
+QS404EW0006,Count,Household,Private rented
+QS404EW0007,Count,Household,Living rent free
+QS405EW0001,Count,Household,All categories: Tenure
+QS405EW0002,Count,Household,Owned: Total
+QS405EW0003,Count,Household,Owned: Owned outright
+QS405EW0004,Count,Household,Owned: Owned with a mortgage or loan
+QS405EW0005,Count,Household,Shared ownership (part owned and part rented)
+QS405EW0006,Count,Household,Social rented: Total
+QS405EW0007,Count,Household,Social rented: Rented from council (Local Authority)
+QS405EW0008,Count,Household,Social rented: Other social rented
+QS405EW0009,Count,Household,Private rented: Total
+QS405EW0010,Count,Household,Private rented: Private landlord or letting agency
+QS405EW0011,Count,Household,Private rented: Employer of a household member
+QS405EW0012,Count,Household,Private rented: Relative or friend of household member
+QS405EW0013,Count,Household,Private rented: Other
+QS405EW0014,Count,Household,Living rent free
+QS406EW0001,Count,Household,All categories: Household size
+QS406EW0002,Count,Household,1 person in household
+QS406EW0003,Count,Household,2 people in household
+QS406EW0004,Count,Household,3 people in household
+QS406EW0005,Count,Household,4 people in household
+QS406EW0006,Count,Household,5 people in household
+QS406EW0007,Count,Household,6 people in household
+QS406EW0008,Count,Household,7 people in household
+QS406EW0009,Count,Household,8 or more people in household
+QS407EW0001,Count,Household,All categories: Number of rooms
+QS407EW0002,Count,Household,1 room
+QS407EW0003,Count,Household,2 rooms
+QS407EW0004,Count,Household,3 rooms
+QS407EW0005,Count,Household,4 rooms
+QS407EW0006,Count,Household,5 rooms
+QS407EW0007,Count,Household,6 rooms
+QS407EW0008,Count,Household,7 rooms
+QS407EW0009,Count,Household,8 rooms
+QS407EW0010,Count,Household,9 or more rooms
+QS408EW0001,Count,Household,All categories: Occupancy rating (rooms) 
+QS408EW0002,Count,Household,Occupancy rating (rooms) of +2 or more
+QS408EW0003,Count,Household,Occupancy rating (rooms) of +1
+QS408EW0004,Count,Household,Occupancy rating (rooms) of 0
+QS408EW0005,Count,Household,Occupancy rating (rooms) of -1
+QS408EW0006,Count,Household,Occupancy rating (rooms) of -2 or less
+QS409EW0001,Count,Household,All categories: Number of persons per room in household
+QS409EW0002,Count,Household,Up to 0.5 persons per room
+QS409EW0003,Count,Household,Over 0.5 and up to 1.0 persons per room
+QS409EW0004,Count,Household,Over 1.0 and up to 1.5 persons per room
+QS409EW0005,Count,Household,Over 1.5 persons per room
+QS410EW0001,Count,Person,All categories: Number of persons per room in household
+QS410EW0002,Count,Person,Up to 0.5 persons per room
+QS410EW0003,Count,Person,Over 0.5 and up to 1.0 persons per room
+QS410EW0004,Count,Person,Over 1.0 and up to 1.5 persons per room
+QS410EW0005,Count,Person,Over 1.5 persons per room
+QS411EW0001,Count,Household,All categories: Number of bedrooms
+QS411EW0002,Count,Household,No bedrooms
+QS411EW0003,Count,Household,1 bedroom
+QS411EW0004,Count,Household,2 bedrooms
+QS411EW0005,Count,Household,3 bedrooms
+QS411EW0006,Count,Household,4 bedrooms
+QS411EW0007,Count,Household,5 or more bedrooms
+QS412EW0001,Count,Household,All categories: Occupancy rating bedrooms
+QS412EW0002,Count,Household,Occupancy rating (bedrooms) of +2 or more
+QS412EW0003,Count,Household,Occupancy rating (bedrooms) of +1
+QS412EW0004,Count,Household,Occupancy rating (bedrooms) of 0
+QS412EW0005,Count,Household,Occupancy rating (bedrooms) of -1
+QS412EW0006,Count,Household,Occupancy rating (bedrooms) of -2 or less
+QS413EW0001,Count,Household,All categories: Number of persons per bedroom in household
+QS413EW0002,Count,Household,Up to 0.5 persons per bedroom
+QS413EW0003,Count,Household,Over 0.5 and up to 1.0 persons per bedroom
+QS413EW0004,Count,Household,Over 1.0 and up to 1.5 persons per bedroom
+QS413EW0005,Count,Household,Over 1.5 persons per bedroom
+QS414EW0001,Count,Person,All categories: Number of persons per bedroom in household
+QS414EW0002,Count,Person,Up to 0.5 persons per bedroom
+QS414EW0003,Count,Person,Over 0.5 and up to 1.0 persons per bedroom
+QS414EW0004,Count,Person,Over 1.0 and up to 1.5 persons per bedroom
+QS414EW0005,Count,Person,Over 1.5 persons per bedroom
+QS415EW0001,Count,Household,All categories: Type of central heating in household
+QS415EW0002,Count,Household,No central heating 
+QS415EW0003,Count,Household,Gas central heating
+QS415EW0004,Count,Household,Electric (including storage heaters) central heating
+QS415EW0005,Count,Household,Oil central heating
+QS415EW0006,Count,Household,"Solid fuel (for example wood, coal) central heating"
+QS415EW0007,Count,Household,Other central heating
+QS415EW0008,Count,Household,Two or more types of central heating
+QS416EW0001,Count,Households,All categories: Car or van availability
+QS416EW0002,Count,Households,No cars or vans in household
+QS416EW0003,Count,Households,1 car or van in household
+QS416EW0004,Count,Households,2 cars or vans in household
+QS416EW0005,Count,Households,3 cars or vans in household
+QS416EW0006,Count,Households,4 or more cars or vans in household
+QS416EW0007,Sum,All cars or vans in the area,All categories: Car or van availability
+QS417EW0001,Count,Household,All categories: Household spaces
+QS417EW0002,Count,Household,Household spaces with at least one usual resident
+QS417EW0003,Count,Household,Household spaces with no usual residents
+QS418EW0001,Count,Dwelling,All categories: Dwelling type
+QS418EW0002,Count,Dwelling,Unshared dwelling
+QS418EW0003,Count,Dwelling,Shared dwelling
+QS419EW0001,Count,Person,All categories: Position in communal establishment
+QS419EW0002,Count,Person,Resident
+QS419EW0003,Count,Person,Staff or owner
+QS419EW0004,Count,Person,Family member or partner of staff or owner
+QS420EW0001,Count,Communal establishment,All categories: Communal establishment management and type
+QS420EW0002,Count,Communal establishment,Medical and care establishment: Total
+QS420EW0003,Count,Communal establishment,Medical and care establishment: NHS: Total
+QS420EW0004,Count,Communal establishment,Medical and care establishment: NHS: General hospital
+QS420EW0005,Count,Communal establishment,Medical and care establishment: NHS: Mental health hospital/unit (including secure units)
+QS420EW0006,Count,Communal establishment,Medical and care establishment: NHS: Other hospital
+QS420EW0007,Count,Communal establishment,Medical and care establishment: Local Authority: Total
+QS420EW0008,Count,Communal establishment,Medical and care establishment: Local Authority: Children's home (including secure units)
+QS420EW0009,Count,Communal establishment,Medical and care establishment: Local Authority: Care home with nursing
+QS420EW0010,Count,Communal establishment,Medical and care establishment: Local Authority: Care home without nursing
+QS420EW0011,Count,Communal establishment,Medical and care establishment: Local Authority: Other home
+QS420EW0012,Count,Communal establishment,Medical and care establishment: Registered Social Landlord/Housing Association: Total
+QS420EW0013,Count,Communal establishment,Medical and care establishment: Registered Social Landlord/Housing Association: Home or hostel
+QS420EW0014,Count,Communal establishment,Medical and care establishment: Registered Social Landlord/Housing Association: Sheltered housing only
+QS420EW0015,Count,Communal establishment,Medical and care establishment: Other: Total
+QS420EW0016,Count,Communal establishment,Medical and care establishment: Other: Care home with nursing
+QS420EW0017,Count,Communal establishment,Medical and care establishment: Other: Care home without nursing
+QS420EW0018,Count,Communal establishment,Medical and care establishment: Other: Children's home (including secure units)
+QS420EW0019,Count,Communal establishment,Medical and care establishment: Other: Mental health hospital/unit (including secure units)
+QS420EW0020,Count,Communal establishment,Medical and care establishment: Other: Other hospital
+QS420EW0021,Count,Communal establishment,Medical and care establishment: Other: Other establishment
+QS420EW0022,Count,Communal establishment,Other establishment: Total
+QS420EW0023,Count,Communal establishment,Other establishment: Defence
+QS420EW0024,Count,Communal establishment,Other establishment: Prison service
+QS420EW0025,Count,Communal establishment,Other establishment: Approved premises (probation/bail hostel)
+QS420EW0026,Count,Communal establishment,Other establishment: Detention centres and other detention
+QS420EW0027,Count,Communal establishment,Other establishment: Education
+QS420EW0028,Count,Communal establishment,Other establishment: Hotel: guest house; B&B; youth hostel
+QS420EW0029,Count,Communal establishment,Other establishment: Hostel or temporary shelter for the homeless
+QS420EW0030,Count,Communal establishment,Other establishment: Holiday accommodation (for example holiday parks)
+QS420EW0031,Count,Communal establishment,Other establishment: Other travel or temporary accommodation
+QS420EW0032,Count,Communal establishment,Other establishment: Religious
+QS420EW0033,Count,Communal establishment,Other establishment: Staff/worker accommodation only
+QS420EW0034,Count,Communal establishment,Other establishment: Other
+QS420EW0035,Count,Communal establishment,Establishment not stated
+QS421EW0001,Count,Person,All categories: Communal establishment management and type
+QS421EW0002,Count,Person,Medical and care establishment: Total
+QS421EW0003,Count,Person,Medical and care establishment: NHS: Total
+QS421EW0004,Count,Person,Medical and care establishment: NHS: General hospital
+QS421EW0005,Count,Person,Medical and care establishment: NHS: Mental health hospital/unit (including secure units)
+QS421EW0006,Count,Person,Medical and care establishment: NHS: Other hospital
+QS421EW0007,Count,Person,Medical and care establishment: Local Authority: Total
+QS421EW0008,Count,Person,Medical and care establishment: Local Authority: Children's home (including secure units)
+QS421EW0009,Count,Person,Medical and care establishment: Local Authority: Care home with nursing
+QS421EW0010,Count,Person,Medical and care establishment: Local Authority: Care home without nursing
+QS421EW0011,Count,Person,Medical and care establishment: Local Authority: Other home
+QS421EW0012,Count,Person,Medical and care establishment: Registered Social Landlord/Housing Association: Total
+QS421EW0013,Count,Person,Medical and care establishment: Registered Social Landlord/Housing Association: Home or hostel
+QS421EW0014,Count,Person,Medical and care establishment: Registered Social Landlord/Housing Association: Sheltered housing only
+QS421EW0015,Count,Person,Medical and care establishment: Other: Total
+QS421EW0016,Count,Person,Medical and care establishment: Other: Care home with nursing
+QS421EW0017,Count,Person,Medical and care establishment: Other: Care home without nursing
+QS421EW0018,Count,Person,Medical and care establishment: Other: Children's home (including secure units)
+QS421EW0019,Count,Person,Medical and care establishment: Other: Mental health hospital/unit (including secure units)
+QS421EW0020,Count,Person,Medical and care establishment: Other: Other hospital
+QS421EW0021,Count,Person,Medical and care establishment: Other: Other establishment
+QS421EW0022,Count,Person,Other establishment: Total
+QS421EW0023,Count,Person,Other establishment: Defence
+QS421EW0024,Count,Person,Other establishment: Prison service
+QS421EW0025,Count,Person,Other establishment: Approved premises (probation/bail hostel)
+QS421EW0026,Count,Person,Other establishment: Detention centres and other detention
+QS421EW0027,Count,Person,Other establishment: Education
+QS421EW0028,Count,Person,Other establishment: Hotel: guest house; B&B; youth hostel
+QS421EW0029,Count,Person,Other establishment: Hostel or temporary shelter for the homeless
+QS421EW0030,Count,Person,Other establishment: Holiday accommodation (for example holiday parks)
+QS421EW0031,Count,Person,Other establishment: Other travel or temporary accommodation
+QS421EW0032,Count,Person,Other establishment: Religious
+QS421EW0033,Count,Person,Other establishment: Staff/worker accommodation only
+QS421EW0034,Count,Person,Other establishment: Other
+QS421EW0035,Count,Person,Establishment not stated
+QS501EW0001,Count,Person,All categories: Highest level of qualification
+QS501EW0002,Count,Person,No qualifications
+QS501EW0003,Count,Person,Level 1 qualifications
+QS501EW0004,Count,Person,Level 2 qualifications
+QS501EW0005,Count,Person,Apprenticeship
+QS501EW0006,Count,Person,Level 3 qualifications
+QS501EW0007,Count,Person,Level 4 qualifications and above
+QS501EW0008,Count,Person,Other qualifications
+QS502EW0001,Count,Person,All usual residents aged 16 and over
+QS502EW0002,Count,Person,No qualifications
+QS502EW0003,Count,Person,"1-4 O levels/CSE/GCSEs (any grades), Entry Level, Foundation Diploma"
+QS502EW0004,Count,Person,"NVQ Level 1, Foundation GNVQ, Basic Skills"
+QS502EW0005,Count,Person,"5+ O level (Passes)/CSEs (Grade 1)/GCSEs (Grades A*-C), School Certificate, 1 A level/2-3 AS levels/VCEs, Higher Diploma, Welsh Baccalaureate Intermediate Diploma"
+QS502EW0006,Count,Person,"NVQ Level 2, Intermediate GNVQ, City and Guilds Craft, BTEC First/General Diploma, RSA Diploma"
+QS502EW0007,Count,Person,Apprenticeship
+QS502EW0008,Count,Person,"2+ A levels/VCEs, 4+ AS levels, Higher School Certificate, Progression/Advanced Diploma, Welsh Baccalaureate Advanced Diploma"
+QS502EW0009,Count,Person,"NVQ Level 3, Advanced GNVQ, City and Guilds Advanced Craft, ONC, OND, BTEC National, RSA Advanced Diploma"
+QS502EW0010,Count,Person,"Degree (for example BA, BSc), Higher degree (for example MA, PhD, PGCE)"
+QS502EW0011,Count,Person,"NVQ Level 4-5, HNC, HND, RSA Higher Diploma, BTEC Higher Level"
+QS502EW0012,Count,Person,"Professional qualifications (for example teaching, nursing, accountancy)"
+QS502EW0013,Count,Person,Other vocational/work-related qualifications
+QS502EW0014,Count,Person,Foreign qualifications
+QS601EW0001,Count,Person,All categories: Economic activity
+QS601EW0002,Count,Person,Economically active: Total
+QS601EW0003,Count,Person,Economically active: Employee: Part-time
+QS601EW0004,Count,Person,Economically active: Employee: Full-time
+QS601EW0005,Count,Person,Economically active: Self-employed with employees: Part-time
+QS601EW0006,Count,Person,Economically active: Self-employed with employees: Full-time
+QS601EW0007,Count,Person,Economically active: Self-employed without employees: Part-time
+QS601EW0008,Count,Person,Economically active: Self-employed without employees: Full-time
+QS601EW0009,Count,Person,Economically active: Unemployed
+QS601EW0010,Count,Person,Economically active: Full-time student
+QS601EW0011,Count,Person,Economically inactive: Total
+QS601EW0012,Count,Person,Economically inactive: Retired
+QS601EW0013,Count,Person,Economically inactive: Student (including full-time students)
+QS601EW0014,Count,Person,Economically inactive: Looking after home or family
+QS601EW0015,Count,Person,Economically inactive: Long-term sick or disabled
+QS601EW0016,Count,Person,Economically inactive: Other
+QS602EW0001,Count,Person,All categories: Economic activity
+QS602EW0002,Count,Person,Economically active: Total
+QS602EW0003,Count,Person,Economically active: Employee: Part-time
+QS602EW0004,Count,Person,Economically active: Employee: Full-time
+QS602EW0005,Count,Person,Economically active: Self-employed with employees: Part-time
+QS602EW0006,Count,Person,Economically active: Self-employed with employees: Full-time
+QS602EW0007,Count,Person,Economically active: Self-employed without employees: Part-time
+QS602EW0008,Count,Person,Economically active: Self-employed without employees: Full-time
+QS602EW0009,Count,Person,Economically active: Unemployed
+QS602EW0010,Count,Person,Economically active: Full-time student
+QS602EW0011,Count,Person,Economically inactive: Total
+QS602EW0012,Count,Person,Economically inactive: Retired
+QS602EW0013,Count,Person,Economically inactive: Student (including full-time students)
+QS602EW0014,Count,Person,Economically inactive: Looking after home or family
+QS602EW0015,Count,Person,Economically inactive: Long-term sick or disabled
+QS602EW0016,Count,Person,Economically inactive: Other
+QS603EW0001,Count,Person,All categories: Full-time students and economic activity
+QS603EW0002,Count,Person,Full-time students: Economically active: In employment
+QS603EW0003,Count,Person,Full-time students: Economically active: Unemployed
+QS603EW0004,Count,Person,Full-time students: Economically inactive
+QS604EW0001,Count,Person,All categories: Hours worked
+QS604EW0002,Count,Person,Part-time: Total
+QS604EW0003,Count,Person,Part-time: 15 hours or less worked
+QS604EW0004,Count,Person,Part-time: 16 to 30 hours worked
+QS604EW0005,Count,Person,Full-time: Total
+QS604EW0006,Count,Person,Full-time: 31 to 48 hours worked
+QS604EW0007,Count,Person,Full-time: 49 or more hours worked
+QS605EW0001,Count,Person,All categories: Industry
+QS605EW0002,Count,Person,"A Agriculture, forestry and fishing"
+QS605EW0003,Count,Person,B Mining and quarrying
+QS605EW0004,Count,Person,C Manufacturing
+QS605EW0005,Count,Person,"C10-12 Manufacturing: Food, beverages and tobacco"
+QS605EW0006,Count,Person,"C13-15 Manufacturing: Textiles, wearing apparel and leather and related products"
+QS605EW0007,Count,Person,"C16,17 Manufacturing: Wood, paper and paper products"
+QS605EW0008,Count,Person,"C19-22 Manufacturing: Chemicals, chemical products, rubber and plastic"
+QS605EW0009,Count,Person,C23-25 Manufacturing: Low tech
+QS605EW0010,Count,Person,C26-30 Manufacturing: High tech
+QS605EW0011,Count,Person,"C18, 31, 32 Manufacturing: Other"
+QS605EW0012,Count,Person,"D Electricity, gas, steam and air conditioning supply"
+QS605EW0013,Count,Person,"E Water supply, sewerage, waste management and remediation activities"
+QS605EW0014,Count,Person,F Construction
+QS605EW0015,Count,Person,G Wholesale and retail trade; repair of motor vehicles and motor cycles
+QS605EW0016,Count,Person,H Transport and storage
+QS605EW0017,Count,Person,I Accommodation and food service activities
+QS605EW0018,Count,Person,J Information and communication
+QS605EW0019,Count,Person,K Financial and insurance activities
+QS605EW0020,Count,Person,L Real estate activities
+QS605EW0021,Count,Person,"M Professional, scientific and technical activities"
+QS605EW0022,Count,Person,N Administrative and support service activities
+QS605EW0023,Count,Person,O Public administration and defence; compulsory social security
+QS605EW0024,Count,Person,P Education
+QS605EW0025,Count,Person,Q Human health and social work activities
+QS605EW0026,Count,Person,"R,S Arts, entertainment and recreation; other service activities"
+QS605EW0027,Count,Person,T Activities of households as employers; undifferentiated goods - and services - producing activities of households for own use
+QS605EW0028,Count,Person,U Activities of extraterritorial organisations and bodies
+QS606EW0001,Count,Person,All categories: Occupation
+QS606EW0002,Count,Person,"Managers, directors and senior officials"
+QS606EW0003,Count,Person,"Managers, directors and senior officials;     Corporate managers and directors"
+QS606EW0004,Count,Person,"Managers, directors and senior officials;     Corporate managers and directors;         Chief Executives and Senior Officials"
+QS606EW0005,Count,Person,"Managers, directors and senior officials;     Corporate managers and directors;         Production Managers and Directors"
+QS606EW0006,Count,Person,"Managers, directors and senior officials;     Corporate managers and directors;         Functional Managers and Directors"
+QS606EW0007,Count,Person,"Managers, directors and senior officials;     Corporate managers and directors;         Financial Institution Managers and Directors"
+QS606EW0008,Count,Person,"Managers, directors and senior officials;     Corporate managers and directors;         Managers and Directors in Transport and Logistics"
+QS606EW0009,Count,Person,"Managers, directors and senior officials;     Corporate managers and directors;         Senior Officers in Protective Services"
+QS606EW0010,Count,Person,"Managers, directors and senior officials;     Corporate managers and directors;         Health and Social Services Managers and Directors"
+QS606EW0011,Count,Person,"Managers, directors and senior officials;     Corporate managers and directors;         Managers and Directors in Retail and Wholesale"
+QS606EW0012,Count,Person,"Managers, directors and senior officials;     Other managers and proprietors"
+QS606EW0013,Count,Person,"Managers, directors and senior officials;     Other managers and proprietors;         Managers and Proprietors in Agriculture Related Services"
+QS606EW0014,Count,Person,"Managers, directors and senior officials;     Other managers and proprietors;         Managers and Proprietors in Hospitality and Leisure Services"
+QS606EW0015,Count,Person,"Managers, directors and senior officials;     Other managers and proprietors;         Managers and Proprietors in Health and Care Services"
+QS606EW0016,Count,Person,"Managers, directors and senior officials;     Other managers and proprietors;         Managers and Proprietors in Other Services"
+QS606EW0017,Count,Person,Professional occupations
+QS606EW0018,Count,Person,"Professional occupations;     Science, research, engineering and technology professionals"
+QS606EW0019,Count,Person,"Professional occupations;     Science, research, engineering and technology professionals;         Natural and Social Science Professionals"
+QS606EW0020,Count,Person,"Professional occupations;     Science, research, engineering and technology professionals;         Engineering Professionals"
+QS606EW0021,Count,Person,"Professional occupations;     Science, research, engineering and technology professionals;         Information Technology and Telecommunications Professionals"
+QS606EW0022,Count,Person,"Professional occupations;     Science, research, engineering and technology professionals;         Conservation and Environment Professionals"
+QS606EW0023,Count,Person,"Professional occupations;     Science, research, engineering and technology professionals;         Research and Development Managers "
+QS606EW0024,Count,Person,Professional occupations;     Health professionals
+QS606EW0025,Count,Person,Professional occupations;     Health professionals;         Health Professionals
+QS606EW0026,Count,Person,Professional occupations;     Health professionals;         Therapy Professionals
+QS606EW0027,Count,Person,Professional occupations;     Health professionals;         Nursing and Midwifery Professionals
+QS606EW0028,Count,Person,Professional occupations;     Teaching and educational professionals
+QS606EW0029,Count,Person,Professional occupations;     Teaching and educational professionals;         Teaching and Educational Professionals
+QS606EW0030,Count,Person,"Professional occupations;     Business, media and public service professionals"
+QS606EW0031,Count,Person,"Professional occupations;     Business, media and public service professionals;         Legal Professionals"
+QS606EW0032,Count,Person,"Professional occupations;     Business, media and public service professionals;         Business, Research and Administrative Professionals"
+QS606EW0033,Count,Person,"Professional occupations;     Business, media and public service professionals;         Architects, Town Planners and Surveyors"
+QS606EW0034,Count,Person,"Professional occupations;     Business, media and public service professionals;         Welfare Professionals"
+QS606EW0035,Count,Person,"Professional occupations;     Business, media and public service professionals;         Librarians and Related Professionals"
+QS606EW0036,Count,Person,"Professional occupations;     Business, media and public service professionals;         Quality and Regulatory Professionals"
+QS606EW0037,Count,Person,"Professional occupations;     Business, media and public service professionals;         Media Professionals"
+QS606EW0038,Count,Person,Associate professional and technical occupations
+QS606EW0039,Count,Person,"Associate professional and technical occupations;     Science, engineering and technology associate professionals"
+QS606EW0040,Count,Person,"Associate professional and technical occupations;     Science, engineering and technology associate professionals;         Science, Engineering and Production Technicians"
+QS606EW0041,Count,Person,"Associate professional and technical occupations;     Science, engineering and technology associate professionals;         Draughtspersons and Related Architectural Technicians"
+QS606EW0042,Count,Person,"Associate professional and technical occupations;     Science, engineering and technology associate professionals;         Information Technology Technicians"
+QS606EW0043,Count,Person,Associate professional and technical occupations;     Health and social care associate professionals
+QS606EW0044,Count,Person,Associate professional and technical occupations;     Health and social care associate professionals;         Health Associate Professionals
+QS606EW0045,Count,Person,Associate professional and technical occupations;     Health and social care associate professionals;         Welfare and Housing Associate Professionals
+QS606EW0046,Count,Person,Associate professional and technical occupations;     Protective service occupations
+QS606EW0047,Count,Person,Associate professional and technical occupations;     Protective service occupations;         Protective Service Occupations
+QS606EW0048,Count,Person,"Associate professional and technical occupations;     Culture, media and sports occupations"
+QS606EW0049,Count,Person,"Associate professional and technical occupations;     Culture, media and sports occupations;         Artistic, Literary and Media Occupations"
+QS606EW0050,Count,Person,"Associate professional and technical occupations;     Culture, media and sports occupations;         Design Occupations"
+QS606EW0051,Count,Person,"Associate professional and technical occupations;     Culture, media and sports occupations;         Sports and Fitness Occupations"
+QS606EW0052,Count,Person,Associate professional and technical occupations;     Business and public service associate professionals
+QS606EW0053,Count,Person,Associate professional and technical occupations;     Business and public service associate professionals;         Transport Associate Professionals
+QS606EW0054,Count,Person,Associate professional and technical occupations;     Business and public service associate professionals;         Legal Associate Professionals
+QS606EW0055,Count,Person,"Associate professional and technical occupations;     Business and public service associate professionals;         Business, Finance and Related Associate Professionals"
+QS606EW0056,Count,Person,"Associate professional and technical occupations;     Business and public service associate professionals;         Sales, Marketing and Related Associate Professionals"
+QS606EW0057,Count,Person,Associate professional and technical occupations;     Business and public service associate professionals;         Conservation and Environmental associate professionals
+QS606EW0058,Count,Person,Associate professional and technical occupations;     Business and public service associate professionals;         Public Services and Other Associate Professionals
+QS606EW0059,Count,Person,Administrative and secretarial occupations
+QS606EW0060,Count,Person,Administrative and secretarial occupations;     Administrative occupations
+QS606EW0061,Count,Person,Administrative and secretarial occupations;     Administrative occupations;         Administrative Occupations: Government and Related Organisations
+QS606EW0062,Count,Person,Administrative and secretarial occupations;     Administrative occupations;         Administrative Occupations: Finance
+QS606EW0063,Count,Person,Administrative and secretarial occupations;     Administrative occupations;         Administrative Occupations: Records
+QS606EW0064,Count,Person,Administrative and secretarial occupations;     Administrative occupations;         Other Administrative Occupations
+QS606EW0065,Count,Person,Administrative and secretarial occupations;     Administrative occupations;         Administrative Occupations: Office Managers and Supervisors
+QS606EW0066,Count,Person,Administrative and secretarial occupations;     Secretarial and related occupations
+QS606EW0067,Count,Person,Administrative and secretarial occupations;     Secretarial and related occupations;         Secretarial and Related Occupations
+QS606EW0068,Count,Person,Skilled trades occupations
+QS606EW0069,Count,Person,Skilled trades occupations;     Skilled agricultural and related trades
+QS606EW0070,Count,Person,Skilled trades occupations;     Skilled agricultural and related trades;         Agricultural and Related Trades
+QS606EW0071,Count,Person,"Skilled trades occupations;     Skilled metal, electrical and electronic trades"
+QS606EW0072,Count,Person,"Skilled trades occupations;     Skilled metal, electrical and electronic trades;         Metal Forming, Welding and Related Trades"
+QS606EW0073,Count,Person,"Skilled trades occupations;     Skilled metal, electrical and electronic trades;         Metal Machining, Fitting and Instrument Making Trades"
+QS606EW0074,Count,Person,"Skilled trades occupations;     Skilled metal, electrical and electronic trades;         Vehicle Trades"
+QS606EW0075,Count,Person,"Skilled trades occupations;     Skilled metal, electrical and electronic trades;         Electrical and Electronic Trades"
+QS606EW0076,Count,Person,"Skilled trades occupations;     Skilled metal, electrical and electronic trades;         Skilled Metal, Electrical and Electronic Trades Supervisors"
+QS606EW0077,Count,Person,Skilled trades occupations;     Skilled construction and building trades
+QS606EW0078,Count,Person,Skilled trades occupations;     Skilled construction and building trades;         Construction and Building Trades
+QS606EW0079,Count,Person,Skilled trades occupations;     Skilled construction and building trades;         Building Finishing Trades
+QS606EW0080,Count,Person,Skilled trades occupations;     Skilled construction and building trades;         Construction and Building Trades Supervisors
+QS606EW0081,Count,Person,"Skilled trades occupations;     Textiles, printing and other skilled trades"
+QS606EW0082,Count,Person,"Skilled trades occupations;     Textiles, printing and other skilled trades;         Textiles and Garments Trades"
+QS606EW0083,Count,Person,"Skilled trades occupations;     Textiles, printing and other skilled trades;         Printing Trades"
+QS606EW0084,Count,Person,"Skilled trades occupations;     Textiles, printing and other skilled trades;         Food Preparation and Hospitality Trades"
+QS606EW0085,Count,Person,"Skilled trades occupations;     Textiles, printing and other skilled trades;         Other Skilled Trades"
+QS606EW0086,Count,Person,"Caring, leisure and other service occupations"
+QS606EW0087,Count,Person,"Caring, leisure and other service occupations;     Caring personal service occupations"
+QS606EW0088,Count,Person,"Caring, leisure and other service occupations;     Caring personal service occupations;         Childcare and Related Personal Services"
+QS606EW0089,Count,Person,"Caring, leisure and other service occupations;     Caring personal service occupations;         Animal Care and Control Services"
+QS607EW0024,Count,Person,4. Small employers and own account workers
+QS606EW0090,Count,Person,"Caring, leisure and other service occupations;     Caring personal service occupations;         Caring Personal Services"
+QS606EW0091,Count,Person,"Caring, leisure and other service occupations;     Leisure, travel and related personal service occupations"
+QS606EW0092,Count,Person,"Caring, leisure and other service occupations;     Leisure, travel and related personal service occupations;         Leisure and Travel Services"
+QS606EW0093,Count,Person,"Caring, leisure and other service occupations;     Leisure, travel and related personal service occupations;         Hairdressers and Related Services"
+QS606EW0094,Count,Person,"Caring, leisure and other service occupations;     Leisure, travel and related personal service occupations;         Housekeeping and Related Services"
+QS606EW0095,Count,Person,"Caring, leisure and other service occupations;     Leisure, travel and related personal service occupations;         Cleaning and Housekeeping Managers and Supervisors"
+QS606EW0096,Count,Person,Sales and customer service occupations
+QS606EW0097,Count,Person,Sales and customer service occupations;     Sales occupations
+QS606EW0098,Count,Person,Sales and customer service occupations;     Sales occupations;         Sales Assistants and Retail Cashiers
+QS606EW0099,Count,Person,Sales and customer service occupations;     Sales occupations;         Sales Related Occupations
+QS606EW0100,Count,Person,Sales and customer service occupations;     Sales occupations;         Sales Supervisors
+QS606EW0101,Count,Person,Sales and customer service occupations;     Customer service occupations
+QS606EW0102,Count,Person,Sales and customer service occupations;     Customer service occupations;         Customer Service Occupations
+QS606EW0103,Count,Person,Sales and customer service occupations;     Customer service occupations;         Customer Service Managers and Supervisors
+QS606EW0104,Count,Person,"Process, plant and machine operatives"
+QS606EW0105,Count,Person,"Process, plant and machine operatives;     Process, plant and machine operatives"
+QS606EW0106,Count,Person,"Process, plant and machine operatives;     Process, plant and machine operatives;         Process Operatives"
+QS606EW0107,Count,Person,"Process, plant and machine operatives;     Process, plant and machine operatives;         Plant and Machine Operatives"
+QS606EW0108,Count,Person,"Process, plant and machine operatives;     Process, plant and machine operatives;         Assemblers and Routine Operatives"
+QS606EW0109,Count,Person,"Process, plant and machine operatives;     Process, plant and machine operatives;         Construction Operatives"
+QS606EW0110,Count,Person,"Process, plant and machine operatives;     Transport and mobile machine drivers and operatives"
+QS606EW0111,Count,Person,"Process, plant and machine operatives;     Transport and mobile machine drivers and operatives;         Road Transport Drivers"
+QS606EW0112,Count,Person,"Process, plant and machine operatives;     Transport and mobile machine drivers and operatives;         Mobile Machine Drivers and Operatives"
+QS606EW0113,Count,Person,"Process, plant and machine operatives;     Transport and mobile machine drivers and operatives;         Other Drivers and Transport Operatives"
+QS606EW0114,Count,Person,Elementary occupations
+QS606EW0115,Count,Person,Elementary occupations;     Elementary trades and related occupations
+QS606EW0116,Count,Person,Elementary occupations;     Elementary trades and related occupations;         Elementary Agricultural Occupations
+QS606EW0117,Count,Person,Elementary occupations;     Elementary trades and related occupations;         Elementary Construction Occupations
+QS606EW0118,Count,Person,Elementary occupations;     Elementary trades and related occupations;         Elementary Process Plant Occupations
+QS606EW0119,Count,Person,Elementary occupations;     Elementary administration and service occupations
+QS606EW0120,Count,Person,Elementary occupations;     Elementary administration and service occupations;         Elementary Administration Occupations
+QS606EW0121,Count,Person,Elementary occupations;     Elementary administration and service occupations;         Elementary Cleaning Occupations
+QS606EW0122,Count,Person,Elementary occupations;     Elementary administration and service occupations;         Elementary Security Occupations
+QS606EW0123,Count,Person,Elementary occupations;     Elementary administration and service occupations;         Elementary Sales Occupations
+QS606EW0124,Count,Person,Elementary occupations;     Elementary administration and service occupations;         Elementary Storage Occupations
+QS606EW0125,Count,Person,Elementary occupations;     Elementary administration and service occupations;         Other Elementary Services Occupations
+QS607EW0001,Count,Person,All categories: NS-SeC
+QS607EW0002,Count,Person,"1. Higher managerial, administrative and professional occupations"
+QS607EW0003,Count,Person,1.1 Large employers and higher managerial and administrative occupations
+QS607EW0004,Count,Person,L1 Employers in large establishments
+QS607EW0005,Count,Person,L2 Higher managerial and administrative occupations
+QS607EW0006,Count,Person,1.2 Higher professional occupations
+QS607EW0007,Count,Person,L3.1 Traditional employees
+QS607EW0008,Count,Person,L3.2 New employees
+QS607EW0009,Count,Person,L3.3 Traditional self-employed
+QS607EW0010,Count,Person,L3.4 New self-employed
+QS607EW0011,Count,Person,"2. Lower managerial, administrative and professional occupations"
+QS607EW0012,Count,Person,L4 Lower professional and higher technical occupations
+QS607EW0013,Count,Person,L4.1 Traditional employees
+QS607EW0014,Count,Person,L4.2 New employees
+QS607EW0015,Count,Person,L4.3 Traditional self-employed
+QS607EW0016,Count,Person,L4.4 New self-employed
+QS607EW0017,Count,Person,L5 Lower managerial and administrative occupations
+QS607EW0018,Count,Person,L6 Higher supervisory occupations
+QS607EW0019,Count,Person,3. Intermediate occupations
+QS607EW0020,Count,Person,L7.1 Intermediate clerical and administrative occupations
+QS607EW0021,Count,Person,L7.2 Intermediate sales and service occupations
+QS607EW0022,Count,Person,L7.3 Intermediate technical and auxiliary occupations
+QS607EW0023,Count,Person,L7.4 Intermediate engineering occupations
+QS607EW0025,Count,Person,L8 Employers in small establishments
+QS607EW0026,Count,Person,"L8.1 Employers in small establishments in industry, commerce, services etc."
+QS607EW0027,Count,Person,L8.2 Employers in small establishments in agriculture
+QS607EW0028,Count,Person,L9 Own account workers
+QS607EW0029,Count,Person,L9.1 Own account workers (non-professional)
+QS607EW0030,Count,Person,L9.2 Own account workers (agriculture)
+QS607EW0031,Count,Person,5. Lower supervisory and technical occupations
+QS607EW0032,Count,Person,L10 Lower supervisory occupations
+QS607EW0033,Count,Person,L11 Lower technical occupations
+QS607EW0034,Count,Person,L11.1 Lower technical craft occupations
+QS607EW0035,Count,Person,L11.2 Lower technical process operative occupations
+QS607EW0036,Count,Person,6. Semi-routine occupations
+QS607EW0037,Count,Person,L12.1 Semi-routine sales occupations
+QS607EW0038,Count,Person,L12.2 Semi-routine service occupations
+QS607EW0039,Count,Person,L12.3 Semi-routine technical occupations
+QS607EW0040,Count,Person,L12.4 Semi-routine operative occupations
+QS607EW0041,Count,Person,L12.5 Semi-routine agricultural occupations
+QS607EW0042,Count,Person,L12.6 Semi-routine clerical occupations
+QS607EW0043,Count,Person,L12.7 Semi-routine childcare occupations
+QS607EW0044,Count,Person,7. Routine occupations
+QS607EW0045,Count,Person,L13.1 Routine sales and service occupations
+QS607EW0046,Count,Person,L13.2 Routine production occupations
+QS607EW0047,Count,Person,L13.3 Routine technical occupations
+QS607EW0048,Count,Person,L13.4 Routine operative occupations
+QS607EW0049,Count,Person,L13.5 Routine agricultural occupations
+QS607EW0050,Count,Person,8. Never worked and long-term unemployed
+QS607EW0051,Count,Person,L14.1 Never worked
+QS607EW0052,Count,Person,L14.2 Long-term unemployed
+QS607EW0053,Count,Person,Not classified
+QS607EW0054,Count,Person,L15 Full-time students
+QS607EW0055,Count,Person,L17 Not classifiable for other reasons
+QS608EW0001,Count,Person,All categories: NS-SeC of Household Reference Person
+QS608EW0002,Count,Person,"1. Higher managerial, administrative and professional occupations"
+QS608EW0003,Count,Person,1.1 Large employers and higher managerial and administrative occupations
+QS608EW0004,Count,Person,L1 Employers in large establishments
+QS608EW0005,Count,Person,L2 Higher managerial and administrative occupations
+QS608EW0006,Count,Person,1.2 Higher professional occupations
+QS608EW0007,Count,Person,L3.1 Traditional employees
+QS608EW0008,Count,Person,L3.2 New employees
+QS608EW0009,Count,Person,L3.3 Traditional self-employed
+QS608EW0010,Count,Person,L3.4 New self-employed
+QS608EW0011,Count,Person,"2. Lower managerial, administrative and professional occupations"
+QS608EW0012,Count,Person,L4 Lower professional and higher technical occupations
+QS608EW0013,Count,Person,L4.1 Traditional employees
+QS608EW0014,Count,Person,L4.2 New employees
+QS608EW0015,Count,Person,L4.3 Traditional self-employed
+QS608EW0016,Count,Person,L4.4 New self-employed
+QS608EW0017,Count,Person,L5 Lower managerial and administrative occupations
+QS608EW0018,Count,Person,L6 Higher supervisory occupations
+QS608EW0019,Count,Person,3. Intermediate occupations
+QS608EW0020,Count,Person,L7.1 Intermediate clerical and administrative occupations
+QS608EW0021,Count,Person,L7.2 Intermediate sales and service occupations
+QS608EW0022,Count,Person,L7.3 Intermediate technical and auxiliary occupations
+QS608EW0023,Count,Person,L7.4 Intermediate engineering occupations
+QS608EW0024,Count,Person,4. Small employers and own account workers
+QS608EW0025,Count,Person,L8 Employers in small establishments
+QS608EW0026,Count,Person,"L8.1 Employers in small establishments in industry, commerce, services etc."
+QS608EW0027,Count,Person,L8.2 Employers in small establishments in agriculture
+QS608EW0028,Count,Person,L9 Own account workers
+QS608EW0029,Count,Person,L9.1 Own account workers (non-professional)
+QS608EW0030,Count,Person,L9.2 Own account workers (agriculture)
+QS608EW0031,Count,Person,5. Lower supervisory and technical occupations
+QS608EW0032,Count,Person,L10 Lower supervisory occupations
+QS608EW0033,Count,Person,L11 Lower technical occupations
+QS608EW0034,Count,Person,L11.1 Lower technical craft occupations
+QS608EW0035,Count,Person,L11.2 Lower technical process operative occupations
+QS608EW0036,Count,Person,6. Semi-routine occupations
+QS608EW0037,Count,Person,L12.1 Semi-routine sales occupations
+QS608EW0038,Count,Person,L12.2 Semi-routine service occupations
+QS608EW0039,Count,Person,L12.3 Semi-routine technical occupations
+QS608EW0040,Count,Person,L12.4 Semi-routine operative occupations
+QS608EW0041,Count,Person,L12.5 Semi-routine agricultural occupations
+QS608EW0042,Count,Person,L12.6 Semi-routine clerical occupations
+QS608EW0043,Count,Person,L12.7 Semi-routine childcare occupations
+QS608EW0044,Count,Person,7. Routine occupations
+QS608EW0045,Count,Person,L13.1 Routine sales and service occupations
+QS608EW0046,Count,Person,L13.2 Routine production occupations
+QS608EW0047,Count,Person,L13.3 Routine technical occupations
+QS608EW0048,Count,Person,L13.4 Routine operative occupations
+QS608EW0049,Count,Person,L13.5 Routine agricultural occupations
+QS608EW0050,Count,Person,8. Never worked and long-term unemployed
+QS608EW0051,Count,Person,L14.1 Never worked
+QS608EW0052,Count,Person,L14.2 Long-term unemployed
+QS608EW0053,Count,Person,Not classified
+QS608EW0054,Count,Person,L15 Full-time students
+QS608EW0055,Count,Person,L17 Not classifiable for other reasons
+QS609EW0001,Count,Person,All categories: NS-SeC of Household Reference Person
+QS609EW0002,Count,Person,"1. Higher managerial, administrative and professional occupations"
+QS609EW0003,Count,Person,1.1 Large employers and higher managerial and administrative occupations
+QS609EW0004,Count,Person,L1 Employers in large establishments
+QS609EW0005,Count,Person,L2 Higher managerial and administrative occupations
+QS609EW0006,Count,Person,1.2 Higher professional occupations
+QS609EW0007,Count,Person,L3.1 Traditional employees
+QS609EW0008,Count,Person,L3.2 New employees
+QS609EW0009,Count,Person,L3.3 Traditional self-employed
+QS609EW0010,Count,Person,L3.4 New self-employed
+QS609EW0011,Count,Person,"2. Lower managerial, administrative and professional occupations"
+QS609EW0012,Count,Person,L4 Lower professional and higher technical occupations
+QS609EW0013,Count,Person,L4.1 Traditional employees
+QS609EW0014,Count,Person,L4.2 New employees
+QS609EW0015,Count,Person,L4.3 Traditional self-employed
+QS609EW0016,Count,Person,L4.4 New self-employed
+QS609EW0017,Count,Person,L5 Lower managerial and administrative occupations
+QS609EW0018,Count,Person,L6 Higher supervisory occupations
+QS609EW0019,Count,Person,3. Intermediate occupations
+QS609EW0020,Count,Person,L7.1 Intermediate clerical and administrative occupations
+QS609EW0021,Count,Person,L7.2 Intermediate sales and service occupations
+QS609EW0022,Count,Person,L7.3 Intermediate technical and auxiliary occupations
+QS609EW0023,Count,Person,L7.4 Intermediate engineering occupations
+QS609EW0024,Count,Person,4. Small employers and own account workers
+QS609EW0025,Count,Person,L8 Employers in small establishments
+QS609EW0026,Count,Person,"L8.1 Employers in small establishments in industry, commerce, services etc."
+QS609EW0027,Count,Person,L8.2 Employers in small establishments in agriculture
+QS609EW0028,Count,Person,L9 Own account workers
+QS609EW0029,Count,Person,L9.1 Own account workers (non-professional)
+QS609EW0030,Count,Person,L9.2 Own account workers (agriculture)
+QS609EW0031,Count,Person,5. Lower supervisory and technical occupations
+QS609EW0032,Count,Person,L10 Lower supervisory occupations
+QS609EW0033,Count,Person,L11 Lower technical occupations
+QS609EW0034,Count,Person,L11.1 Lower technical craft occupations
+QS609EW0035,Count,Person,L11.2 Lower technical process operative occupations
+QS609EW0036,Count,Person,6. Semi-routine occupations
+QS609EW0037,Count,Person,L12.1 Semi-routine sales occupations
+QS609EW0038,Count,Person,L12.2 Semi-routine service occupations
+QS609EW0039,Count,Person,L12.3 Semi-routine technical occupations
+QS609EW0040,Count,Person,L12.4 Semi-routine operative occupations
+QS609EW0041,Count,Person,L12.5 Semi-routine agricultural occupations
+QS609EW0042,Count,Person,L12.6 Semi-routine clerical occupations
+QS609EW0043,Count,Person,L12.7 Semi-routine childcare occupations
+QS609EW0044,Count,Person,7. Routine occupations
+QS609EW0045,Count,Person,L13.1 Routine sales and service occupations
+QS609EW0046,Count,Person,L13.2 Routine production occupations
+QS609EW0047,Count,Person,L13.3 Routine technical occupations
+QS609EW0048,Count,Person,L13.4 Routine operative occupations
+QS609EW0049,Count,Person,L13.5 Routine agricultural occupations
+QS609EW0050,Count,Person,8. Never worked and long-term unemployed
+QS609EW0051,Count,Person,L14.1 Never worked
+QS609EW0052,Count,Person,L14.2 Long-term unemployed
+QS609EW0053,Count,Person,Not classified
+QS609EW0054,Count,Person,L15 Full-time students
+QS609EW0055,Count,Person,L17 Not classifiable for other reasons
+QS610EW0001,Count,Person,All categories: NS-SeC of Household Reference Person
+QS610EW0002,Count,Person,"1. Higher managerial, administrative and professional occupations"
+QS610EW0003,Count,Person,1.1 Large employers and higher managerial and administrative occupations
+QS610EW0004,Count,Person,L1 Employers in large establishments
+QS610EW0005,Count,Person,L2 Higher managerial and administrative occupations
+QS610EW0006,Count,Person,1.2 Higher professional occupations
+QS610EW0007,Count,Person,L3.1 Traditional employees
+QS610EW0008,Count,Person,L3.2 New employees
+QS610EW0009,Count,Person,L3.3 Traditional self-employed
+QS610EW0010,Count,Person,L3.4 New self-employed
+QS610EW0011,Count,Person,"2. Lower managerial, administrative and professional occupations"
+QS610EW0012,Count,Person,L4 Lower professional and higher technical occupations
+QS610EW0013,Count,Person,L4.1 Traditional employees
+QS610EW0014,Count,Person,L4.2 New employees
+QS610EW0015,Count,Person,L4.3 Traditional self-employed
+QS610EW0016,Count,Person,L4.4 New self-employed
+QS610EW0017,Count,Person,L5 Lower managerial and administrative occupations
+QS610EW0018,Count,Person,L6 Higher supervisory occupations
+QS610EW0019,Count,Person,3. Intermediate occupations
+QS610EW0020,Count,Person,L7.1 Intermediate clerical and administrative occupations
+QS610EW0021,Count,Person,L7.2 Intermediate sales and service occupations
+QS610EW0022,Count,Person,L7.3 Intermediate technical and auxiliary occupations
+QS610EW0023,Count,Person,L7.4 Intermediate engineering occupations
+QS610EW0024,Count,Person,4. Small employers and own account workers
+QS610EW0025,Count,Person,L8 Employers in small establishments
+QS610EW0026,Count,Person,"L8.1 Employers in small establishments in industry, commerce, services etc."
+QS610EW0027,Count,Person,L8.2 Employers in small establishments in agriculture
+QS610EW0028,Count,Person,L9 Own account workers
+QS610EW0029,Count,Person,L9.1 Own account workers (non-professional)
+CT00100009,Count,Person,Other mixed
+QS610EW0030,Count,Person,L9.2 Own account workers (agriculture)
+QS610EW0031,Count,Person,5. Lower supervisory and technical occupations
+QS610EW0032,Count,Person,L10 Lower supervisory occupations
+QS610EW0033,Count,Person,L11 Lower technical occupations
+QS610EW0034,Count,Person,L11.1 Lower technical craft occupations
+QS610EW0035,Count,Person,L11.2 Lower technical process operative occupations
+QS610EW0036,Count,Person,6. Semi-routine occupations
+QS610EW0037,Count,Person,L12.1 Semi-routine sales occupations
+QS610EW0038,Count,Person,L12.2 Semi-routine service occupations
+QS610EW0039,Count,Person,L12.3 Semi-routine technical occupations
+QS610EW0040,Count,Person,L12.4 Semi-routine operative occupations
+QS610EW0041,Count,Person,L12.5 Semi-routine agricultural occupations
+QS610EW0042,Count,Person,L12.6 Semi-routine clerical occupations
+QS610EW0043,Count,Person,L12.7 Semi-routine childcare occupations
+QS610EW0044,Count,Person,7. Routine occupations
+QS610EW0045,Count,Person,L13.1 Routine sales and service occupations
+QS610EW0046,Count,Person,L13.2 Routine production occupations
+QS610EW0047,Count,Person,L13.3 Routine technical occupations
+QS610EW0048,Count,Person,L13.4 Routine operative occupations
+QS610EW0049,Count,Person,L13.5 Routine agricultural occupations
+QS610EW0050,Count,Person,8. Never worked and long-term unemployed
+QS610EW0051,Count,Person,L14.1 Never worked
+QS610EW0052,Count,Person,L14.2 Long-term unemployed
+QS610EW0053,Count,Person,Not classified
+QS610EW0054,Count,Person,L15 Full-time students
+QS610EW0055,Count,Person,L17 Not classifiable for other reasons
+QS612EW0001,Count,Person,All categories: Year last worked 
+QS612EW0002,Count,Person,In employment
+QS612EW0003,Count,Person,Not in employment: Total
+QS612EW0004,Count,Person,Last worked in 2011
+QS612EW0005,Count,Person,Last worked in 2010
+QS612EW0006,Count,Person,Last worked in 2009 
+QS612EW0007,Count,Person,Last worked in 2008
+QS612EW0008,Count,Person,Last worked in 2007
+QS612EW0009,Count,Person,Last worked in 2006
+QS612EW0010,Count,Person,Last worked in 2001 - 2005
+QS612EW0011,Count,Person,Last worked before 2001
+QS612EW0012,Count,Person,Never worked
+QS701EW0001,Count,Person,All categories: Method of travel to work
+QS701EW0002,Count,Person,Work mainly at or from home
+QS701EW0003,Count,Person,"Underground, metro, light rail, tram"
+QS701EW0004,Count,Person,Train
+QS701EW0005,Count,Person,"Bus, minibus or coach"
+QS701EW0006,Count,Person,Taxi
+QS701EW0007,Count,Person,"Motorcycle, scooter or moped"
+QS701EW0008,Count,Person,Driving a car or van
+QS701EW0009,Count,Person,Passenger in a car or van
+QS701EW0010,Count,Person,Bicycle
+QS701EW0011,Count,Person,On foot
+QS701EW0012,Count,Person,Other method of travel to work
+QS701EW0013,Count,Person,Not in employment
+QS801EW0001,Count,Person,All categories: Year of arrival in the UK
+QS801EW0002,Count,Person,Born in the UK
+QS801EW0003,Count,Person,Arrived before 1941
+QS801EW0004,Count,Person,Arrived 1941-1950
+QS801EW0005,Count,Person,Arrived 1951-1960
+QS801EW0006,Count,Person,Arrived 1961-1970
+QS801EW0007,Count,Person,Arrived 1971-1980
+QS801EW0008,Count,Person,Arrived 1981-1990
+QS801EW0009,Count,Person,Arrived 1991-2000
+QS801EW0010,Count,Person,Arrived 2001-2003
+QS801EW0011,Count,Person,Arrived 2004-2006
+QS801EW0012,Count,Person,Arrived 2007-2009
+QS801EW0013,Count,Person,Arrived 2010-2011
+QS802EW0001,Count,Person,All categories: Age of arrival in the UK
+QS802EW0002,Count,Person,Born in the UK
+QS802EW0003,Count,Person,Age of arrival in the UK: 0 to 4
+QS802EW0004,Count,Person,Age of arrival in the UK: 5 to 7
+QS802EW0005,Count,Person,Age of arrival in the UK: 8 to 9
+QS802EW0006,Count,Person,Age of arrival in the UK: 10 to 14
+QS802EW0007,Count,Person,Age of arrival in the UK: 15
+QS802EW0008,Count,Person,Age of arrival in the UK: 16 to 17
+QS802EW0009,Count,Person,Age of arrival in the UK: 18 to 19
+QS802EW0010,Count,Person,Age of arrival in the UK: 20 to 24
+QS802EW0011,Count,Person,Age of arrival in the UK: 25 to 29
+QS802EW0012,Count,Person,Age of arrival in the UK: 30 to 44
+QS802EW0013,Count,Person,Age of arrival in the UK: 45 to 59
+QS802EW0014,Count,Person,Age of arrival in the UK: 60 to 64
+QS802EW0015,Count,Person,Age of arrival in the UK: 65 to 74
+QS802EW0016,Count,Person,Age of arrival in the UK: 75 to 84
+QS802EW0017,Count,Person,Age of arrival in the UK: 85 to 89
+QS802EW0018,Count,Person,Age of arrival in the UK: 90 and over
+QS803EW0001,Count,Person,All categories: Length of residence in the UK
+QS803EW0002,Count,Person,Born in the UK
+QS803EW0003,Count,Person,Resident in UK: Less than 2 years
+QS803EW0004,Count,Person,Resident in UK: 2 years or more but less than 5 years
+QS803EW0005,Count,Person,Resident in UK: 5 years or more but less than 10 years
+QS803EW0006,Count,Person,Resident in UK: 10 years or more
+CT00100001,Count,Person,All categories: Ethnic group
+CT00100002,Count,Person,English/Welsh/Scottish/Northern Irish/British
+CT00100003,Count,Person,Irish
+CT00100004,Count,Person,Gypsy or Irish Traveller
+CT00100005,Count,Person,Other White
+CT00100006,Count,Person,White and Black Caribbean
+CT00100007,Count,Person,White and Black African
+CT00100008,Count,Person,White and Asian
+CT00100010,Count,Person,Indian or British Indian
+CT00100011,Count,Person,Pakistani or British Pakistani
+CT00100012,Count,Person,"Bangladeshi, British Bangladeshi"
+CT00100013,Count,Person,Chinese
+CT00100014,Count,Person,Other Asian
+CT00100015,Count,Person,African
+CT00100016,Count,Person,Caribbean
+CT00100017,Count,Person,Other Black
+CT00100018,Count,Person,Arab
+CT00100019,Count,Person,Any other ethnic group
+CT00100020,Count,Person,Afghan
+CT00100021,Count,Person,African/Arab
+CT00100022,Count,Person,Albanian
+CT00100023,Count,Person,Anglo Indian
+CT00100024,Count,Person,Argentinian
+CT00100025,Count,Person,Australian/New Zealander
+CT00100026,Count,Person,Baltic States
+CT00100027,Count,Person,Black and Asian
+CT00100028,Count,Person,Black and Chinese
+CT00100029,Count,Person,Black and White
+CT00100030,Count,Person,Black British
+CT00100031,Count,Person,Black European
+CT00100032,Count,Person,Black/African American
+CT00100033,Count,Person,Bosnian
+CT00100034,Count,Person,Brazilian
+CT00100035,Count,Person,British Asian
+CT00100036,Count,Person,Burmese
+CT00100037,Count,Person,Cambodia
+CT00100038,Count,Person,Caribbean Asian
+CT00100039,Count,Person,Chilean
+CT00100040,Count,Person,Chinese and White
+CT00100041,Count,Person,Colombian
+CT00100042,Count,Person,Commonwealth of (Russian) Independent States
+CT00100043,Count,Person,Croatian
+CT00100044,Count,Person,Cuban
+CT00100045,Count,Person,Cypriot
+CT00100046,Count,Person,East African Asian
+CT00100047,Count,Person,Ecuadorian
+CT00100048,Count,Person,European Mixed
+CT00100049,Count,Person,Filipino
+CT00100050,Count,Person,Greek
+CT00100051,Count,Person,Greek Cypriot
+CT00100052,Count,Person,Indonesian
+CT00100053,Count,Person,Iranian
+CT00100054,Count,Person,Israeli
+CT00100055,Count,Person,Italian
+CT00100056,Count,Person,Japanese
+CT00100057,Count,Person,Kashmiri
+CT00100058,Count,Person,Korean
+CT00100059,Count,Person,Kosovan
+CT00100060,Count,Person,Kurdish
+CT00100061,Count,Person,Latin/South/Central American
+CT00100062,Count,Person,Malaysian
+CT00100063,Count,Person,Mexican
+CT00100064,Count,Person,Moroccan
+CT00100065,Count,Person,Multi-ethnic islands
+CT00100066,Count,Person,Nepalese (includes Gurkha)
+CT00100067,Count,Person,Nigerian
+CT00100068,Count,Person,North African
+CT00100069,Count,Person,North American
+CT00100070,Count,Person,Other Eastern European
+CT00100071,Count,Person,Other Middle East
+CT00100072,Count,Person,Other Western European
+CT00100073,Count,Person,Peruvian
+CT00100074,Count,Person,Polish
+CT00100075,Count,Person,Polynesia/Micronesia/Melanesia
+CT00100076,Count,Person,Punjabi
+CT00100077,Count,Person,Serbian
+CT00100078,Count,Person,Sinhalese
+CT00100079,Count,Person,Somali
+CT00100080,Count,Person,Somalilander
+CT00100081,Count,Person,South Asian and Chinese
+CT00100082,Count,Person,Sri Lankan
+CT00100083,Count,Person,Taiwanese
+CT00100084,Count,Person,Tamil
+CT00100085,Count,Person,Thai
+CT00100086,Count,Person,Turkish
+CT00100087,Count,Person,Turkish Cypriot
+CT00100088,Count,Person,Venezuelan
+CT00100089,Count,Person,Vietnamese
+CT00100090,Count,Person,White African
+CT00100091,Count,Person,White and Arab
+CT00100092,Count,Person,White and East Asian
+CT00100093,Count,Person,White and North African or Middle Eastern
+CT00100094,Count,Person,White and South Asian
+CT00100095,Count,Person,White Caribbean
