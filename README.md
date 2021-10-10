@@ -15,5 +15,5 @@ Assumption : You have Python 3.8 or higher already installed
 4. Create a database called data. See https://www.postgresql.org/files/documentation/pdf/14/postgresql-14-A4.pdf
 5. Install Jupyter Notebook.  See https://jupyter.org/install
 6. Download file CensusMetaData.csv
-7. Download and open file ReferenceDataLoad.iphy in Jupyter Notebook
-8. C
+7. Download and open file CensusAnalysisSetup.ipynb in Jupyter Notebook. Run this file
+8. 
