@@ -11,7 +11,7 @@ Assumption : You have Python 3.8 or higher already installed
 ##Setup
 1. Install Postgresql.  See https://www.postgresql.org/download/
 2. Install PostGIS extension. See https://postgis.net/install/
-3. Install pgAdmin4. See https://www.pgadmin.org/download/ (or other database client software)
+3. Install pgAdmin4 (optional). See https://www.pgadmin.org/download/ (or other database client software)
 4. Create a database called data. See https://www.postgresql.org/files/documentation/pdf/14/postgresql-14-A4.pdf
 5. Install Jupyter Notebook.  See https://jupyter.org/install
 6. Download file CensusMetaData.csv
