@@ -5,6 +5,7 @@ For this we will be using Python, Postgres, PostGIS, QGIS(possibly), GeoPandas a
 
 For a detailed description of the Census data have a look at https://www.ons.gov.uk/census/2011census
 During the course of this projet I will endeavour to explain terms that are specific to this data and area of analysis such as OAs, LSOAs, MSOAs, etc
+The specific census data we are retrieving is Key Statistics data and can be found at https://www.nomisweb.co.uk/census/2011/key_statistics
 
 Assumption : You have Python 3.8 or higher already installed
 
@@ -18,6 +19,4 @@ Assumption : You have Python 3.8 or higher already installed
 7. Download and open file CensusAnalysisSetup.ipynb in Jupyter Notebook. Run this file
 8. Download and open file RetrieveAndSaveCensusData.ipynb in Jupyter Notebook. Run this file (this will take some time)
 9. Your database should now be populated with millions of rows of UK 2011 census data
-10. Before we start to perform some analysis on this data we will create a few indexes to speed up our queries.
-The easiest way to do this is via the database client software (pdAdmin4)
-Connect to the database and bring up a query session and run the following code
+10. How to add additional Census data. 
