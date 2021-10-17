@@ -22,4 +22,4 @@ Assumption : You have Python 3.8 or higher already installed
 7. Download and open file CensusAnalysisSetup.ipynb in Jupyter Notebook. Run this file
 8. Download and open file RetrieveAndSaveCensusData.ipynb in Jupyter Notebook. Run this file (this will take some time)
 9. Your database should now be populated with millions of rows of UK 2011 census data
-10. How to add additional Census data. 
+
