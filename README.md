@@ -23,3 +23,12 @@ Assumption : You have Python 3.8 or higher already installed
 8. Download and open file RetrieveAndSaveCensusData.ipynb in Jupyter Notebook. Run this file (this will take some time)
 9. Your database should now be populated with millions of rows of UK 2011 census data
 
+You should now have a large amount of 2011 UK census data to search and plot using GeoPandas
+The other files have example code to select and display data.
+A couple of examples of the data visualisation are shown below
+
+![image](https://user-images.githubusercontent.com/4700433/138572008-4da43098-a88c-41fc-9094-1762682126a2.png)
+
+
+![image](https://user-images.githubusercontent.com/4700433/138572021-34b2792c-8f9b-4c99-85ec-40417795a066.png)
+
