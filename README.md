@@ -22,7 +22,7 @@ Assumption : You have Python 3.8 or higher already installed
 7. Download and open file CensusAnalysisSetup.ipynb in Jupyter Notebook. Run this file
 8. Download and open file RetrieveAndSaveCensusData.ipynb in Jupyter Notebook. Run this file (this will take some time)
 9. Your database should now be populated with millions of rows of UK 2011 census data
-10. To convert the key value pair structure of the census data into a more traditional relational database table of data run the changes.sql file from within pgAdmin (DON'T USE YET. NEEDS CHECKING)
+10. To convert the key value pair structure of the census data into a more traditional relational database table of data run the changes.sql file from within pgAdmin 
 
 You should now have a large amount of 2011 UK census data to search and plot using GeoPandas
 The other files have example code to select and display data.
