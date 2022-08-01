@@ -1,5 +1,6 @@
 create table censusfull as (SELECT *
-FROM crosstab( $$select geographycode::text, key::text, value::integer from censusdata  order by 1,2$$)
+FROM crosstab( 'select geographycode::text, key::text, value::integer from censusdata  order by 1,2',
+			  'SELECT DISTINCT key FROM censusdata ORDER BY key ASC')
 AS final_result(geographycode text, 
 KS102EW0001 integer , 				
 KS102EW0002 integer , 
